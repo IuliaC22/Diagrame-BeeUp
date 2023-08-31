@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="894.0px" height="1268.0px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g>
+<rect x="0.0px" y="0.0px" width="894.0px" height="1268.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<rect x="210.5px" y="456.5px" width="501.0px" height="604.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="210.5px" y="455.5px" width="501.0px" height="604.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="209.5px" y="455.5px" width="501.0px" height="604.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="209.5px" y="454.5px" width="501.0px" height="604.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="208.5px" y="454.5px" width="501.0px" height="604.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(403.0,457.0), rotate(-0.0)" x="0px" y="0px" textLength="111.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Magazin online X
+</text>
+<polygon points=" 26.0,371.0 26.0,427.0 186.0,427.0 186.0,389.0 175.0,371.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polyline points=" 175.0,371.0 175.0,389.0 186.0,389.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 26.0,370.0 26.0,426.0 186.0,426.0 186.0,388.0 175.0,370.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polyline points=" 175.0,370.0 175.0,388.0 186.0,388.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 25.0,370.0 25.0,426.0 185.0,426.0 185.0,388.0 174.0,370.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polyline points=" 174.0,370.0 174.0,388.0 185.0,388.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 25.0,369.0 25.0,425.0 185.0,425.0 185.0,387.0 174.0,369.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polyline points=" 174.0,369.0 174.0,387.0 185.0,387.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 24.0,369.0 24.0,425.0 184.0,425.0 184.0,387.0 173.0,369.0 " style="fill:rgb(255,255,255); stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polyline points=" 173.0,369.0 173.0,387.0 184.0,387.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<text transform="translate(28.0,372.0), rotate(-0.0)" x="0px" y="0px" textLength="143.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Utilizatorul trebuie sa fie 
+</text>
+<text transform="translate(28.0,389.0), rotate(-0.0)" x="0px" y="0px" textLength="136.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   autentificat pentru toate
+</text>
+<text transform="translate(28.0,405.0), rotate(-0.0)" x="0px" y="0px" textLength="103.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+    cazurile acestora
+</text>
+<polygon points=" 446.0,498.0 446.0,545.0 578.0,545.0 578.0,517.0 567.0,498.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polyline points=" 567.0,498.0 567.0,517.0 578.0,517.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 446.0,497.0 446.0,544.0 578.0,544.0 578.0,516.0 567.0,497.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polyline points=" 567.0,497.0 567.0,516.0 578.0,516.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 445.0,497.0 445.0,544.0 577.0,544.0 577.0,516.0 566.0,497.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polyline points=" 566.0,497.0 566.0,516.0 577.0,516.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 445.0,496.0 445.0,543.0 577.0,543.0 577.0,515.0 566.0,496.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polyline points=" 566.0,496.0 566.0,515.0 577.0,515.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 444.0,496.0 444.0,543.0 576.0,543.0 576.0,515.0 565.0,496.0 " style="fill:rgb(255,255,255); stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polyline points=" 565.0,496.0 565.0,515.0 576.0,515.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<text transform="translate(448.0,500.0), rotate(-0.0)" x="0px" y="0px" textLength="112.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Bunton optional de 
+</text>
+<text transform="translate(448.0,516.0), rotate(-0.0)" x="0px" y="0px" textLength="105.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   solicitare a facturii
+</text>
+<polygon points=" 541.0,359.0 541.0,420.0 711.0,420.0 711.0,378.0 699.0,359.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polyline points=" 699.0,359.0 699.0,378.0 711.0,378.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 541.0,358.0 541.0,419.0 711.0,419.0 711.0,377.0 699.0,358.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polyline points=" 699.0,358.0 699.0,377.0 711.0,377.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 540.0,358.0 540.0,419.0 710.0,419.0 710.0,377.0 698.0,358.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polyline points=" 698.0,358.0 698.0,377.0 710.0,377.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 540.0,357.0 540.0,418.0 710.0,418.0 710.0,376.0 698.0,357.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polyline points=" 698.0,357.0 698.0,376.0 710.0,376.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 539.0,357.0 539.0,418.0 709.0,418.0 709.0,376.0 697.0,357.0 " style="fill:rgb(255,255,255); stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polyline points=" 697.0,357.0 697.0,376.0 709.0,376.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<text transform="translate(542.0,361.0), rotate(-0.0)" x="0px" y="0px" textLength="154.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Permiteti si neautentificat?
+</text>
+<text transform="translate(542.0,377.0), rotate(-0.0)" x="0px" y="0px" textLength="142.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   (atunci conectam aici si 
+</text>
+<text transform="translate(542.0,393.0), rotate(-0.0)" x="0px" y="0px" textLength="144.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   utilizatorul neautentificat)
+</text>
+<rect x="9.5px" y="9.5px" width="728.0px" height="208.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,250,205); stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<text transform="translate(15.0,15.0), rotate(-0.0)" x="0px" y="0px" textLength="301.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Magazinul online X are mai multe tipuri de utilizatori.
+</text>
+<text transform="translate(15.0,31.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(15.0,48.0), rotate(-0.0)" x="0px" y="0px" textLength="649.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Vizitatorul neautentificat poate doar sa navigheze produse. Utilizatorii autentificati pot fi clienti sau administratori.
+</text>
+<text transform="translate(15.0,64.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(15.0,80.0), rotate(-0.0)" x="0px" y="0px" textLength="709.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Clientul (doar autentificat) poate cumpara produse, ceea ce presupune obligatoriu sa foloseasca cosul de cumparaturi si sa
+</text>
+<text transform="translate(15.0,96.0), rotate(-0.0)" x="0px" y="0px" textLength="702.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   plaseze o comanda. La plasarea comenzii va putea opta pentru obtinerea unei facturi, printr-un buton dedicat pentru acest
+</text>
+<text transform="translate(15.0,113.0), rotate(-0.0)" x="0px" y="0px" textLength="511.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   scop. De asemenea plasarea comenzii va necesita si folosirea motorului de plati Paypal.
+</text>
+<text transform="translate(15.0,129.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(15.0,145.0), rotate(-0.0)" x="0px" y="0px" textLength="707.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Administratorul (autentificat) va gestiona catalogul de produse, avand la dispozitie ca operatii posibile adaugarea, stergerea
+</text>
+<text transform="translate(15.0,161.0), rotate(-0.0)" x="0px" y="0px" textLength="118.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   editarea de produse.
+</text>
+<text transform="translate(15.0,178.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(15.0,194.0), rotate(-0.0)" x="0px" y="0px" textLength="640.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Autentificarea se poate face cu cont Facebook sau prin recunoastere faciala asigurata de un serviciu Microsoft.
+</text>
+<line x1="96.0px" y1="966.0px" x2="96.0px" y2="1015.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="78.0px" y1="985.0px" x2="115.0px" y2="985.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="74.0px" y1="1038.0px" x2="96.0px" y2="1015.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="119.0px" y1="1038.0px" x2="96.0px" y2="1015.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="96.5px" cy="954.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="96.0px" y1="965.0px" x2="96.0px" y2="1014.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="78.0px" y1="984.0px" x2="115.0px" y2="984.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="74.0px" y1="1037.0px" x2="96.0px" y2="1014.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="119.0px" y1="1037.0px" x2="96.0px" y2="1014.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="96.5px" cy="953.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="95.0px" y1="965.0px" x2="95.0px" y2="1014.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="77.0px" y1="984.0px" x2="114.0px" y2="984.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="73.0px" y1="1037.0px" x2="95.0px" y2="1014.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="118.0px" y1="1037.0px" x2="95.0px" y2="1014.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="95.5px" cy="953.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="95.0px" y1="964.0px" x2="95.0px" y2="1013.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="77.0px" y1="983.0px" x2="114.0px" y2="983.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="73.0px" y1="1036.0px" x2="95.0px" y2="1013.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="118.0px" y1="1036.0px" x2="95.0px" y2="1013.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="95.5px" cy="952.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="94.0px" y1="964.0px" x2="94.0px" y2="1013.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="76.0px" y1="983.0px" x2="113.0px" y2="983.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="72.0px" y1="1036.0px" x2="94.0px" y2="1013.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="117.0px" y1="1036.0px" x2="94.0px" y2="1013.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="94.5px" cy="952.5px" rx="13.0px" ry="13.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(71.0,1043.0), rotate(-0.0)" x="0px" y="0px" textLength="48.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Vizitator
+</text>
+<text transform="translate(56.0,1059.0), rotate(-0.0)" x="0px" y="0px" textLength="77.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   neautentificat
+</text>
+<line x1="49.0px" y1="673.0px" x2="49.0px" y2="722.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="30.0px" y1="692.0px" x2="68.0px" y2="692.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="27.0px" y1="745.0px" x2="49.0px" y2="722.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="72.0px" y1="745.0px" x2="49.0px" y2="722.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="49.5px" cy="661.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="49.0px" y1="672.0px" x2="49.0px" y2="721.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="30.0px" y1="691.0px" x2="68.0px" y2="691.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="27.0px" y1="744.0px" x2="49.0px" y2="721.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="72.0px" y1="744.0px" x2="49.0px" y2="721.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="49.5px" cy="660.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="48.0px" y1="672.0px" x2="48.0px" y2="721.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="29.0px" y1="691.0px" x2="67.0px" y2="691.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="26.0px" y1="744.0px" x2="48.0px" y2="721.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="71.0px" y1="744.0px" x2="48.0px" y2="721.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="48.5px" cy="660.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="48.0px" y1="671.0px" x2="48.0px" y2="720.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="29.0px" y1="690.0px" x2="67.0px" y2="690.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="26.0px" y1="743.0px" x2="48.0px" y2="720.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="71.0px" y1="743.0px" x2="48.0px" y2="720.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="48.5px" cy="659.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="47.0px" y1="671.0px" x2="47.0px" y2="720.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="28.0px" y1="690.0px" x2="66.0px" y2="690.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="25.0px" y1="743.0px" x2="47.0px" y2="720.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="70.0px" y1="743.0px" x2="47.0px" y2="720.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="47.5px" cy="659.5px" rx="13.0px" ry="13.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(22.0,750.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Utilizator
+</text>
+<text transform="translate(16.0,766.0), rotate(-0.0)" x="0px" y="0px" textLength="63.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   autentificat
+</text>
+<ellipse cx="304.5px" cy="985.5px" rx="70.5px" ry="28.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="304.5px" cy="984.5px" rx="70.5px" ry="28.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="303.5px" cy="984.5px" rx="70.5px" ry="28.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="303.5px" cy="983.5px" rx="70.5px" ry="28.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="302.5px" cy="983.5px" rx="70.5px" ry="28.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(272.0,966.0), rotate(-0.0)" x="0px" y="0px" textLength="61.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Navigare 
+</text>
+<text transform="translate(277.0,983.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produse
+</text>
+<path d="M 119.0 983.0 L 226.0 983.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="153.0px" y1="550.0px" x2="153.0px" y2="599.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="134.0px" y1="569.0px" x2="172.0px" y2="569.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="131.0px" y1="622.0px" x2="153.0px" y2="599.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="176.0px" y1="622.0px" x2="153.0px" y2="599.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="153.5px" cy="538.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="153.0px" y1="549.0px" x2="153.0px" y2="598.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="134.0px" y1="568.0px" x2="172.0px" y2="568.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="131.0px" y1="621.0px" x2="153.0px" y2="598.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="176.0px" y1="621.0px" x2="153.0px" y2="598.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="153.5px" cy="537.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="152.0px" y1="549.0px" x2="152.0px" y2="598.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="133.0px" y1="568.0px" x2="171.0px" y2="568.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="130.0px" y1="621.0px" x2="152.0px" y2="598.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="175.0px" y1="621.0px" x2="152.0px" y2="598.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="152.5px" cy="537.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="152.0px" y1="548.0px" x2="152.0px" y2="597.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="133.0px" y1="567.0px" x2="171.0px" y2="567.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="130.0px" y1="620.0px" x2="152.0px" y2="597.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="175.0px" y1="620.0px" x2="152.0px" y2="597.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="152.5px" cy="536.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="151.0px" y1="548.0px" x2="151.0px" y2="597.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="132.0px" y1="567.0px" x2="170.0px" y2="567.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="129.0px" y1="620.0px" x2="151.0px" y2="597.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="174.0px" y1="620.0px" x2="151.0px" y2="597.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="151.5px" cy="536.5px" rx="13.0px" ry="13.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(135.0,627.0), rotate(-0.0)" x="0px" y="0px" textLength="33.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Client
+</text>
+<line x1="153.0px" y1="815.0px" x2="153.0px" y2="864.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="134.0px" y1="833.0px" x2="172.0px" y2="833.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="131.0px" y1="886.0px" x2="153.0px" y2="864.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="176.0px" y1="886.0px" x2="153.0px" y2="864.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="153.5px" cy="803.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="153.0px" y1="814.0px" x2="153.0px" y2="863.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="134.0px" y1="832.0px" x2="172.0px" y2="832.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="131.0px" y1="885.0px" x2="153.0px" y2="863.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="176.0px" y1="885.0px" x2="153.0px" y2="863.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="153.5px" cy="802.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="152.0px" y1="814.0px" x2="152.0px" y2="863.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="133.0px" y1="832.0px" x2="171.0px" y2="832.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="130.0px" y1="885.0px" x2="152.0px" y2="863.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="175.0px" y1="885.0px" x2="152.0px" y2="863.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="152.5px" cy="802.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="152.0px" y1="813.0px" x2="152.0px" y2="862.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="133.0px" y1="831.0px" x2="171.0px" y2="831.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="130.0px" y1="884.0px" x2="152.0px" y2="862.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="175.0px" y1="884.0px" x2="152.0px" y2="862.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="152.5px" cy="801.5px" rx="13.0px" ry="13.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="151.0px" y1="813.0px" x2="151.0px" y2="862.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="132.0px" y1="831.0px" x2="170.0px" y2="831.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="129.0px" y1="884.0px" x2="151.0px" y2="862.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="174.0px" y1="884.0px" x2="151.0px" y2="862.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="151.5px" cy="801.5px" rx="13.0px" ry="13.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(113.0,892.0), rotate(-0.0)" x="0px" y="0px" textLength="77.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Administrator
+</text>
+<path d="M 123.0 601.0 L 66.0 667.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 70.0,651.0 66.0,667.0 82.0,661.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 132.0 806.0 L 76.0 728.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 91.0,736.0 76.0,728.0 78.0,745.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="361.5px" cy="786.5px" rx="61.0px" ry="28.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="361.5px" cy="785.5px" rx="61.0px" ry="28.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="360.5px" cy="785.5px" rx="61.0px" ry="28.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="360.5px" cy="784.5px" rx="61.0px" ry="28.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="359.5px" cy="784.5px" rx="61.0px" ry="28.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(319.0,776.0), rotate(-0.0)" x="0px" y="0px" textLength="81.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Autentificare
+</text>
+<path d="M 66.0 695.0 L 133.0 716.0 L 144.0 719.0 L 292.0 764.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="314.5px" cy="673.5px" rx="66.0px" ry="28.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="314.5px" cy="672.5px" rx="66.0px" ry="28.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="313.5px" cy="672.5px" rx="66.0px" ry="28.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="313.5px" cy="671.5px" rx="66.0px" ry="28.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="312.5px" cy="671.5px" rx="66.0px" ry="28.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(283.0,655.0), rotate(-0.0)" x="0px" y="0px" textLength="58.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Cumpara
+</text>
+<text transform="translate(286.0,671.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produse
+</text>
+<path d="M 160.0 573.0 L 259.0 637.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="531.5px" cy="673.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="531.5px" cy="672.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="530.5px" cy="672.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="530.5px" cy="671.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="529.5px" cy="671.5px" rx="75.5px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(477.0,663.0), rotate(-0.0)" x="0px" y="0px" textLength="104.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Cos cumparaturi
+</text>
+<ellipse cx="380.5px" cy="578.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="380.5px" cy="577.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="379.5px" cy="577.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="379.5px" cy="576.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="378.5px" cy="576.5px" rx="75.5px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(354.0,560.0), rotate(-0.0)" x="0px" y="0px" textLength="48.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Plasare
+</text>
+<text transform="translate(348.0,576.0), rotate(-0.0)" x="0px" y="0px" textLength="59.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comanda
+</text>
+<path d="M 384.0 671.0 L 448.0 671.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<text transform="translate(406.0,671.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «include»
+</text>
+<polyline points=" 435.0,667.0 448.0,671.0 435.0,675.0 " style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<path d="M 336.0 637.0 L 357.0 606.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<text transform="translate(340.0,636.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «include»
+</text>
+<polyline points=" 347.0,614.0 357.0,606.0 353.0,618.0 " style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<ellipse cx="626.5px" cy="578.5px" rx="66.0px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="626.5px" cy="577.5px" rx="66.0px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="625.5px" cy="577.5px" rx="66.0px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="625.5px" cy="576.5px" rx="66.0px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="624.5px" cy="576.5px" rx="66.0px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(579.0,568.0), rotate(-0.0)" x="0px" y="0px" textLength="90.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Optine factura
+</text>
+<ellipse cx="510.5px" cy="576.5px" rx="5.5px" ry="5.5px" style="fill:rgb(211,211,211); stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 552.0 576.0 L 522.0 576.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<path d="M 499.0 576.0 L 459.0 576.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<text transform="translate(483.0,576.0), rotate(-0.0)" x="0px" y="0px" textLength="53.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «extend»
+</text>
+<polyline points=" 472.0,581.0 459.0,576.0 472.0,572.0 " style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<rect x="357.0px" y="344.0px" width="46.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="353.0px" y="384.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="363.5px" y="350.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="369.5px" y="355.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="376.5px" y="367.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="369.5px" y="353.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="376.5px" y="365.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="358.5px" y="389.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="386.0px" y1="389.0px" x2="403.0px" y2="389.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="357.0px" y="343.0px" width="46.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="353.0px" y="383.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="363.5px" y="349.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="369.5px" y="354.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="376.5px" y="366.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="369.5px" y="352.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="376.5px" y="364.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="358.5px" y="388.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="386.0px" y1="388.0px" x2="403.0px" y2="388.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="356.0px" y="343.0px" width="46.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="352.0px" y="383.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="362.5px" y="349.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="368.5px" y="354.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="375.5px" y="366.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="368.5px" y="352.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="375.5px" y="364.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="357.5px" y="388.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="385.0px" y1="388.0px" x2="402.0px" y2="388.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="356.0px" y="342.0px" width="46.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="352.0px" y="382.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="362.5px" y="348.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="368.5px" y="353.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="375.5px" y="365.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="368.5px" y="351.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="375.5px" y="363.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="357.5px" y="387.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="385.0px" y1="387.0px" x2="402.0px" y2="387.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="355.0px" y="342.0px" width="46.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:3.0px;"/>
+<rect x="351.0px" y="382.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:3.0px;"/>
+<rect x="361.5px" y="348.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="367.5px" y="353.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="374.5px" y="365.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="367.5px" y="351.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="374.5px" y="363.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="356.5px" y="387.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="384.0px" y1="387.0px" x2="401.0px" y2="387.0px" style="stroke:rgb(0,0,0); stroke-width:3.0px;"/>
+<text transform="translate(334.0,399.0), rotate(-0.0)" x="0px" y="0px" textLength="88.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Servicu PayPal
+</text>
+<rect x="754.0px" y="798.0px" width="45.0px" height="39.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="750.0px" y="837.0px" width="53.0px" height="14.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="760.5px" y="803.5px" width="34.0px" height="29.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="765.5px" y="809.5px" width="16.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="773.5px" y="820.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="765.5px" y="807.5px" width="16.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="773.5px" y="818.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="755.5px" y="842.5px" width="4.0px" height="4.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="782.0px" y1="842.0px" x2="799.0px" y2="842.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="754.0px" y="797.0px" width="45.0px" height="39.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="750.0px" y="836.0px" width="53.0px" height="14.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="760.5px" y="802.5px" width="34.0px" height="29.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="765.5px" y="808.5px" width="16.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="773.5px" y="819.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="765.5px" y="806.5px" width="16.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="773.5px" y="817.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="755.5px" y="841.5px" width="4.0px" height="4.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="782.0px" y1="841.0px" x2="799.0px" y2="841.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="753.0px" y="797.0px" width="45.0px" height="39.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="749.0px" y="836.0px" width="53.0px" height="14.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="759.5px" y="802.5px" width="34.0px" height="29.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="764.5px" y="808.5px" width="16.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="772.5px" y="819.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="764.5px" y="806.5px" width="16.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="772.5px" y="817.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="754.5px" y="841.5px" width="4.0px" height="4.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="781.0px" y1="841.0px" x2="798.0px" y2="841.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="753.0px" y="796.0px" width="45.0px" height="39.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="749.0px" y="835.0px" width="53.0px" height="14.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="759.5px" y="801.5px" width="34.0px" height="29.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="764.5px" y="807.5px" width="16.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="772.5px" y="818.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="764.5px" y="805.5px" width="16.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="772.5px" y="816.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="754.5px" y="840.5px" width="4.0px" height="4.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="781.0px" y1="840.0px" x2="798.0px" y2="840.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="752.0px" y="796.0px" width="45.0px" height="39.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:3.0px;"/>
+<rect x="748.0px" y="835.0px" width="53.0px" height="14.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:3.0px;"/>
+<rect x="758.5px" y="801.5px" width="34.0px" height="29.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="763.5px" y="807.5px" width="16.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="771.5px" y="818.5px" width="15.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="763.5px" y="805.5px" width="16.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="771.5px" y="816.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="753.5px" y="840.5px" width="4.0px" height="4.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="780.0px" y1="840.0px" x2="797.0px" y2="840.0px" style="stroke:rgb(0,0,0); stroke-width:3.0px;"/>
+<text transform="translate(724.0,852.0), rotate(-0.0)" x="0px" y="0px" textLength="102.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Serviciu Microsoft
+</text>
+<rect x="754.0px" y="703.0px" width="45.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="750.0px" y="743.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="760.5px" y="709.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="765.5px" y="714.5px" width="16.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="773.5px" y="726.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="765.5px" y="713.5px" width="16.0px" height="1.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="773.5px" y="724.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="755.5px" y="748.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="782.0px" y1="748.0px" x2="799.0px" y2="748.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="754.0px" y="702.0px" width="45.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="750.0px" y="742.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="760.5px" y="708.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="765.5px" y="713.5px" width="16.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="773.5px" y="725.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="765.5px" y="712.5px" width="16.0px" height="1.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="773.5px" y="723.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="755.5px" y="747.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="782.0px" y1="747.0px" x2="799.0px" y2="747.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="753.0px" y="702.0px" width="45.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="749.0px" y="742.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="759.5px" y="708.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="764.5px" y="713.5px" width="16.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="772.5px" y="725.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="764.5px" y="712.5px" width="16.0px" height="1.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="772.5px" y="723.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="754.5px" y="747.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="781.0px" y1="747.0px" x2="798.0px" y2="747.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="753.0px" y="701.0px" width="45.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="749.0px" y="741.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="759.5px" y="707.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="764.5px" y="712.5px" width="16.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="772.5px" y="724.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="764.5px" y="711.5px" width="16.0px" height="1.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="772.5px" y="722.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="754.5px" y="746.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="781.0px" y1="746.0px" x2="798.0px" y2="746.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="752.0px" y="701.0px" width="45.0px" height="40.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:3.0px;"/>
+<rect x="748.0px" y="741.0px" width="53.0px" height="13.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:3.0px;"/>
+<rect x="758.5px" y="707.5px" width="34.0px" height="28.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="763.5px" y="712.5px" width="16.0px" height="8.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="771.5px" y="724.5px" width="15.0px" height="7.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="763.5px" y="711.5px" width="16.0px" height="1.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="771.5px" y="722.5px" width="15.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="753.5px" y="746.5px" width="4.0px" height="3.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="780.0px" y1="746.0px" x2="797.0px" y2="746.0px" style="stroke:rgb(0,0,0); stroke-width:3.0px;"/>
+<text transform="translate(722.0,758.0), rotate(-0.0)" x="0px" y="0px" textLength="106.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Serviciu Facebook
+</text>
+<path d="M 378.0 547.0 L 378.0 420.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="352.5px" cy="881.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="352.5px" cy="880.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="351.5px" cy="880.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="351.5px" cy="879.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="350.5px" cy="879.5px" rx="75.5px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(315.0,862.0), rotate(-0.0)" x="0px" y="0px" textLength="69.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Gestionare
+</text>
+<text transform="translate(324.0,879.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produse
+</text>
+<path d="M 176.0 837.0 L 268.0 859.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="588.5px" cy="909.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="588.5px" cy="908.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="587.5px" cy="908.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="587.5px" cy="907.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="586.5px" cy="907.5px" rx="75.5px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(555.0,891.0), rotate(-0.0)" x="0px" y="0px" textLength="62.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Adaugare
+</text>
+<text transform="translate(561.0,907.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produse
+</text>
+<ellipse cx="569.5px" cy="966.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="569.5px" cy="965.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="568.5px" cy="965.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="568.5px" cy="964.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="567.5px" cy="964.5px" rx="75.5px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(540.0,948.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Stergere
+</text>
+<text transform="translate(542.0,964.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produse
+</text>
+<ellipse cx="512.5px" cy="1013.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="512.5px" cy="1012.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="511.5px" cy="1012.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="511.5px" cy="1011.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="510.5px" cy="1011.5px" rx="75.5px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(460.0,1003.0), rotate(-0.0)" x="0px" y="0px" textLength="100.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Editare produse
+</text>
+<path d="M 505.0 897.0 L 431.0 889.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 447.0,883.0 431.0,889.0 445.0,898.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 492.0 935.0 L 425.0 908.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 442.0,907.0 425.0,908.0 436.0,921.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 475.0 982.0 L 386.0 908.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 402.0,912.0 386.0,908.0 392.0,924.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="559.5px" cy="767.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="559.5px" cy="766.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="558.5px" cy="766.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="558.5px" cy="765.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="557.5px" cy="765.5px" rx="75.5px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(510.0,757.0), rotate(-0.0)" x="0px" y="0px" textLength="95.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Cont Facebook
+</text>
+<ellipse cx="559.5px" cy="824.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="559.5px" cy="823.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<ellipse cx="558.5px" cy="823.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="558.5px" cy="822.5px" rx="75.5px" ry="23.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<ellipse cx="557.5px" cy="822.5px" rx="75.5px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(514.0,806.0), rotate(-0.0)" x="0px" y="0px" textLength="87.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Recunoastere
+</text>
+<text transform="translate(536.0,822.0), rotate(-0.0)" x="0px" y="0px" textLength="43.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   faciala
+</text>
+<path d="M 476.0 773.0 L 426.0 778.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 441.0,769.0 426.0,778.0 442.0,784.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 476.0 807.0 L 426.0 797.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 443.0,793.0 426.0,797.0 440.0,807.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 639.0 751.0 L 746.0 732.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 639.0 822.0 L 746.0 822.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 137.0 517.0 L 113.0 431.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<path d="M 146.0 782.0 L 139.0 723.0 C 137.0 723.0 133.0 721.0 133.0 718.0 133.0 715.0 135.0 712.0 138.0 712.0 L 108.0 431.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<path d="M 510.0 565.0 L 510.0 549.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<path d="M 539.0 642.0 L 612.0 423.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+</g>
+</svg>

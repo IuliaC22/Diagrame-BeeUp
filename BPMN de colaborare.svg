@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2169.0px" height="1092.0px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g>
+<rect x="0.0px" y="0.0px" width="2169.0px" height="1092.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<rect x="21.0px" y="200.0px" width="1464.0px" height="312.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<line x1="56.0px" y1="200.0px" x2="56.0px" y2="512.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="21.0px" y="199.0px" width="1464.0px" height="312.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<line x1="56.0px" y1="199.0px" x2="56.0px" y2="511.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="20.0px" y="199.0px" width="1464.0px" height="312.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<line x1="55.0px" y1="199.0px" x2="55.0px" y2="511.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="20.0px" y="198.0px" width="1464.0px" height="312.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<line x1="55.0px" y1="198.0px" x2="55.0px" y2="510.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="19.0px" y="198.0px" width="1464.0px" height="312.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(153,153,153); stroke-width:3.0px;"/>
+<line x1="54.0px" y1="198.0px" x2="54.0px" y2="510.0px" style="stroke:rgb(153,153,153); stroke-width:3.0px;"/>
+<text transform="translate(26.0,375.0), rotate(-90.0)" x="0px" y="0px" textLength="42.0px"
+ style="font-family:Arial; font-size:15.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-14.0px; ">
+   Client
+</text>
+<rect x="21.0px" y="843.0px" width="1464.0px" height="246.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<line x1="56.0px" y1="843.0px" x2="56.0px" y2="1089.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="21.0px" y="842.0px" width="1464.0px" height="246.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<line x1="56.0px" y1="842.0px" x2="56.0px" y2="1088.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="20.0px" y="842.0px" width="1464.0px" height="246.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<line x1="55.0px" y1="842.0px" x2="55.0px" y2="1088.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="20.0px" y="841.0px" width="1464.0px" height="246.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<line x1="55.0px" y1="841.0px" x2="55.0px" y2="1087.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="19.0px" y="841.0px" width="1464.0px" height="246.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(153,153,153); stroke-width:3.0px;"/>
+<line x1="54.0px" y1="841.0px" x2="54.0px" y2="1087.0px" style="stroke:rgb(153,153,153); stroke-width:3.0px;"/>
+<text transform="translate(26.0,986.0), rotate(-90.0)" x="0px" y="0px" textLength="45.0px"
+ style="font-family:Arial; font-size:15.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-14.0px; ">
+   Curier
+</text>
+<rect x="21.0px" y="522.0px" width="1795.0px" height="302.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<line x1="56.0px" y1="522.0px" x2="56.0px" y2="824.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="21.0px" y="521.0px" width="1795.0px" height="302.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<line x1="56.0px" y1="521.0px" x2="56.0px" y2="823.0px" style="stroke:rgb(219,219,219); stroke-width:3.0px;"/>
+<rect x="20.0px" y="521.0px" width="1795.0px" height="302.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<line x1="55.0px" y1="521.0px" x2="55.0px" y2="823.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="20.0px" y="520.0px" width="1795.0px" height="302.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<line x1="55.0px" y1="520.0px" x2="55.0px" y2="822.0px" style="stroke:rgb(169,169,169); stroke-width:3.0px;"/>
+<rect x="19.0px" y="520.0px" width="1795.0px" height="302.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(153,153,153); stroke-width:3.0px;"/>
+<line x1="54.0px" y1="520.0px" x2="54.0px" y2="822.0px" style="stroke:rgb(153,153,153); stroke-width:3.0px;"/>
+<text transform="translate(26.0,711.0), rotate(-90.0)" x="0px" y="0px" textLength="81.0px"
+ style="font-family:Arial; font-size:15.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-14.0px; ">
+   Comerciant
+</text>
+<rect x="19.5px" y="9.5px" width="916.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,250,205); stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<text transform="translate(25.0,15.0), rotate(-0.0)" x="0px" y="0px" textLength="497.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   2.    Realiza?i echivalentul diagramei de activita?i de la punctul 1, ca diagrama BPMN.
+</text>
+<text transform="translate(25.0,31.0), rotate(-0.0)" x="0px" y="0px" textLength="888.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Clientul con?tientizeaza nevoia achizi?iei unui anumit produs. Analizeaza pia?a, consultând mai multe cataloage de produse punând accent pe descrierea
+</text>
+<text transform="translate(25.0,48.0), rotate(-0.0)" x="0px" y="0px" textLength="862.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   ?i pre?ul acestora. Apoi clientul  alege comerciantul de la care dore?te sa cumpere produsul. Comerciantul este contactat telefonic în vederea plasarii
+</text>
+<text transform="translate(25.0,64.0), rotate(-0.0)" x="0px" y="0px" textLength="60.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comenzii. 
+</text>
+<text transform="translate(25.0,80.0), rotate(-0.0)" x="0px" y="0px" textLength="893.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comerciantul factureaza comanda, apoi ambaleaza comanda ?i o preda curierului. Cel din urma transporta comanda ?i contacteaza clientul pentru a stabili
+</text>
+<text transform="translate(25.0,96.0), rotate(-0.0)" x="0px" y="0px" textLength="858.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   detaliile livrarii. Daca clientul nu este gasit, curierul returneaza comanda comerciantului. Toate comenzile returnate sunt anulate de catre comerciant.
+</text>
+<text transform="translate(25.0,113.0), rotate(-0.0)" x="0px" y="0px" textLength="867.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   În caz contrar, comanda este predata clientului. Clientul plate?te curierului contravaloarea comenzii. În timp ce clientul folose?te produsul si realizeaza
+</text>
+<text transform="translate(25.0,129.0), rotate(-0.0)" x="0px" y="0px" textLength="883.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   ac?iunile descrise în paragrafele urmatoare, curierul face decontarea cu comerciantul. Daca clientul nu este mul?umit de produs, îl poate returna. Curierul
+</text>
+<text transform="translate(25.0,145.0), rotate(-0.0)" x="0px" y="0px" textLength="806.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   transporta coletul comerciantului. Comerciantul înregistreaza returul, iar în termen de 5 zile, returneaza clientului contravaloarea comenzii....
+</text>
+<clipPath id="AdoSvgClip4">
+<ellipse cx="94.0px" cy="350.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip4)">
+<linearGradient id="AdoSvgGradient0" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="60.0px" y="323.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient0);"/>
+</g>
+<ellipse cx="94.5px" cy="350.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<text transform="translate(81.0,380.0), rotate(-0.0)" x="0px" y="0px" textLength="28.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Start
+</text>
+<text transform="translate(64.0,396.0), rotate(-0.0)" x="0px" y="0px" textLength="61.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   cumparare
+</text>
+<rect x="158.0px" y="267.0px" width="284.0px" height="170.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<path d="M293.4,431.3 A5.5,5.5 0 1,0 286.8,431.5" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polyline points=" 283.0,433.0 287.0,433.0 290.0,425.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<rect x="302.0px" y="422.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<rect x="158.0px" y="266.0px" width="284.0px" height="170.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<path d="M293.4,430.3 A5.5,5.5 0 1,0 286.8,430.5" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polyline points=" 283.0,432.0 287.0,432.0 290.0,424.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<rect x="302.0px" y="421.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<rect x="157.0px" y="266.0px" width="284.0px" height="170.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<path d="M292.4,430.3 A5.5,5.5 0 1,0 285.8,430.5" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polyline points=" 282.0,432.0 286.0,432.0 289.0,424.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<rect x="301.0px" y="421.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<rect x="157.0px" y="265.0px" width="284.0px" height="170.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<path d="M292.4,429.3 A5.5,5.5 0 1,0 285.8,429.5" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polyline points=" 282.0,431.0 286.0,431.0 289.0,423.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<rect x="301.0px" y="420.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<clipPath id="AdoSvgClip9">
+<rect x="156.0px" y="265.0px" width="285.0px" height="171.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip9)">
+<linearGradient id="AdoSvgGradient1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="156.0px" y="265.0px" width="284.0px" height="170.0px" style="fill:url(#AdoSvgGradient1);"/>
+</g>
+<rect x="156.0px" y="265.0px" width="284.0px" height="170.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<path d="M291.4,429.3 A5.5,5.5 0 1,0 284.8,429.5" style="fill:none; stroke:rgb(0,0,0); stroke-width:2.0px;"/>
+<polyline points=" 281.0,431.0 285.0,431.0 288.0,423.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:2.0px;"/>
+<rect x="300.0px" y="420.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:rgb(255,255,255); stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(297.0,432.0), rotate(-90.0)" x="0px" y="0px" textLength="10.0px"
+ style="font-family:Arial; font-size:17.0px; font-weight:bold;fill:rgb(0,68,170); stroke:none; baseline-shift:-16.0px; ">
+   +
+</text>
+<text transform="translate(192.0,438.0), rotate(-0.0)" x="0px" y="0px" textLength="213.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Cautare produs la diversi comercianti
+</text>
+<clipPath id="AdoSvgClip14">
+<rect x="170.0px" y="307.0px" width="96.0px" height="86.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip14)">
+<linearGradient id="AdoSvgGradient2" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="170.0px" y="307.0px" width="95.0px" height="85.0px" style="fill:url(#AdoSvgGradient2);"/>
+</g>
+<rect x="170.0px" y="307.0px" width="95.0px" height="85.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(179.0,333.0), rotate(-0.0)" x="0px" y="0px" textLength="77.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Cauta produs
+</text>
+<text transform="translate(183.0,350.0), rotate(-0.0)" x="0px" y="0px" textLength="70.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   in cataloage
+</text>
+<clipPath id="AdoSvgClip19">
+<rect x="302.0px" y="307.0px" width="96.0px" height="86.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip19)">
+<linearGradient id="AdoSvgGradient3" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="302.0px" y="307.0px" width="95.0px" height="85.0px" style="fill:url(#AdoSvgGradient3);"/>
+</g>
+<rect x="302.0px" y="307.0px" width="95.0px" height="85.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(324.0,333.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Consulta
+</text>
+<text transform="translate(313.0,350.0), rotate(-0.0)" x="0px" y="0px" textLength="74.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   detalii si pret
+</text>
+<path d="M 129.0 352.0 L 166.0 352.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 154.0,347.0 166.0,352.0 154.0,356.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 129.0 351.0 L 166.0 351.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 154.0,346.0 166.0,351.0 154.0,355.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 128.0 351.0 L 165.0 351.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 153.0,346.0 165.0,351.0 153.0,355.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 128.0 350.0 L 165.0 350.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 153.0,345.0 165.0,350.0 153.0,354.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 127.0 350.0 L 164.0 350.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 152.0,345.0 164.0,350.0 152.0,354.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 272.0 352.0 L 299.0 352.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 286.0,347.0 299.0,352.0 286.0,356.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 272.0 351.0 L 299.0 351.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 286.0,346.0 299.0,351.0 286.0,355.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 271.0 351.0 L 298.0 351.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 285.0,346.0 298.0,351.0 285.0,355.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 271.0 350.0 L 298.0 350.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 285.0,345.0 298.0,350.0 285.0,354.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 270.0 350.0 L 297.0 350.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 284.0,345.0 297.0,350.0 284.0,354.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip24">
+<rect x="539.0px" y="319.0px" width="114.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip24)">
+<linearGradient id="AdoSvgGradient4" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="539.0px" y="319.0px" width="113.0px" height="61.0px" style="fill:url(#AdoSvgGradient4);"/>
+</g>
+<rect x="539.0px" y="319.0px" width="113.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(568.0,325.0), rotate(-0.0)" x="0px" y="0px" textLength="54.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Plaseaza
+</text>
+<text transform="translate(556.0,342.0), rotate(-0.0)" x="0px" y="0px" textLength="78.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comanda prin
+</text>
+<text transform="translate(576.0,358.0), rotate(-0.0)" x="0px" y="0px" textLength="38.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   telefon
+</text>
+<path d="M 447.0 352.0 L 535.0 352.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 447.0,352.0 453.0,357.0 459.0,352.0 453.0,346.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 522.0,347.0 535.0,352.0 522.0,356.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 447.0 351.0 L 535.0 351.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 447.0,351.0 453.0,356.0 459.0,351.0 453.0,345.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 522.0,346.0 535.0,351.0 522.0,355.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 446.0 351.0 L 534.0 351.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 446.0,351.0 452.0,356.0 458.0,351.0 452.0,345.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 521.0,346.0 534.0,351.0 521.0,355.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 446.0 350.0 L 534.0 350.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 446.0,350.0 452.0,355.0 458.0,350.0 452.0,344.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 521.0,345.0 534.0,350.0 521.0,354.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 445.0 350.0 L 533.0 350.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 445.0,350.0 451.0,355.0 457.0,350.0 451.0,344.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 520.0,345.0 533.0,350.0 520.0,354.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(445.0,357.0), rotate(-0.0)" x="0px" y="0px" textLength="88.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   S-a gasit oferta
+</text>
+<text transform="translate(456.0,373.0), rotate(-0.0)" x="0px" y="0px" textLength="67.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   convenabila
+</text>
+<clipPath id="AdoSvgClip29">
+<ellipse cx="94.0px" cy="605.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip29)">
+<linearGradient id="AdoSvgGradient5" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="60.0px" y="578.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient5);"/>
+</g>
+<ellipse cx="94.5px" cy="605.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<rect x="79.5px" y="593.5px" width="31.0px" height="23.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<polyline points=" 79.0,593.0 94.0,605.0 110.0,593.0 " style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<text transform="translate(67.0,635.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(59.0,651.0), rotate(-0.0)" x="0px" y="0px" textLength="71.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   receptionata
+</text>
+<path d="M 547.0 386.0 L 447.0 461.0 C 446.0 462.0 443.0 464.0 441.0 465.0 L 127.0 592.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="547.5px" cy="386.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 140.0,591.0 127.0,592.0 136.0,583.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip34">
+<rect x="236.0px" y="574.0px" width="115.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip34)">
+<linearGradient id="AdoSvgGradient6" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="236.0px" y="574.0px" width="114.0px" height="61.0px" style="fill:url(#AdoSvgGradient6);"/>
+</g>
+<rect x="236.0px" y="574.0px" width="114.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(254.0,581.0), rotate(-0.0)" x="0px" y="0px" textLength="78.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Inregistreaza/
+</text>
+<text transform="translate(263.0,597.0), rotate(-0.0)" x="0px" y="0px" textLength="60.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   factureaza
+</text>
+<text transform="translate(266.0,613.0), rotate(-0.0)" x="0px" y="0px" textLength="53.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comanda
+</text>
+<clipPath id="AdoSvgClip39">
+<rect x="378.0px" y="574.0px" width="114.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip39)">
+<linearGradient id="AdoSvgGradient7" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="378.0px" y="574.0px" width="113.0px" height="61.0px" style="fill:url(#AdoSvgGradient7);"/>
+</g>
+<rect x="378.0px" y="574.0px" width="113.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(403.0,588.0), rotate(-0.0)" x="0px" y="0px" textLength="65.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Ambaleaza
+</text>
+<text transform="translate(408.0,605.0), rotate(-0.0)" x="0px" y="0px" textLength="53.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comanda
+</text>
+<clipPath id="AdoSvgClip44">
+<rect x="529.0px" y="574.0px" width="115.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip44)">
+<linearGradient id="AdoSvgGradient8" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="529.0px" y="574.0px" width="114.0px" height="61.0px" style="fill:url(#AdoSvgGradient8);"/>
+</g>
+<rect x="529.0px" y="574.0px" width="114.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(548.0,588.0), rotate(-0.0)" x="0px" y="0px" textLength="77.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Preda pachet
+</text>
+<text transform="translate(560.0,605.0), rotate(-0.0)" x="0px" y="0px" textLength="52.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   curierului
+</text>
+<path d="M 129.0 607.0 L 233.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 220.0,603.0 233.0,607.0 220.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 129.0 606.0 L 233.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 220.0,602.0 233.0,606.0 220.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 128.0 606.0 L 232.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 219.0,602.0 232.0,606.0 219.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 128.0 605.0 L 232.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 219.0,601.0 232.0,605.0 219.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 127.0 605.0 L 231.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 218.0,601.0 231.0,605.0 218.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 357.0 607.0 L 374.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 362.0,603.0 374.0,607.0 362.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 357.0 606.0 L 374.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 362.0,602.0 374.0,606.0 362.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 356.0 606.0 L 373.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 361.0,602.0 373.0,606.0 361.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 356.0 605.0 L 373.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 361.0,601.0 373.0,605.0 361.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 355.0 605.0 L 372.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 360.0,601.0 372.0,605.0 360.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 499.0 607.0 L 525.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 513.0,603.0 525.0,607.0 513.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 499.0 606.0 L 525.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 513.0,602.0 525.0,606.0 513.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 498.0 606.0 L 524.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 512.0,602.0 524.0,606.0 512.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 498.0 605.0 L 524.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 512.0,601.0 524.0,605.0 512.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 497.0 605.0 L 523.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 511.0,601.0 523.0,605.0 511.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip49">
+<rect x="81.0px" y="732.0px" width="142.0px" height="68.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip49)">
+<linearGradient id="AdoSvgGradient9" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="81.0px" y="732.0px" width="141.0px" height="67.0px" style="fill:url(#AdoSvgGradient9);"/>
+</g>
+<rect x="81.0px" y="732.0px" width="141.0px" height="67.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<polygon points=" 144.0,789.0 151.0,783.0 151.0,795.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 151.0,789.0 159.0,783.0 159.0,795.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(94.0,742.0), rotate(-0.0)" x="0px" y="0px" textLength="115.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Anulare comanda si
+</text>
+<text transform="translate(132.0,758.0), rotate(-0.0)" x="0px" y="0px" textLength="39.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   factura
+</text>
+<clipPath id="AdoSvgClip54">
+<ellipse cx="246.0px" cy="643.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip54)">
+<linearGradient id="AdoSvgGradient10" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="212.0px" y="616.0px" width="105.0px" height="53.0px" style="fill:url(#AdoSvgGradient10);"/>
+</g>
+<ellipse cx="246.5px" cy="643.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="246.5px" cy="643.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polygon points=" 246.0,635.0 246.0,650.0 234.0,643.0 " style="fill:rgb(98,167,22); stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polygon points=" 258.0,635.0 258.0,650.0 246.0,643.0 " style="fill:rgb(98,167,22); stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(218.0,673.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(215.0,689.0), rotate(-0.0)" x="0px" y="0px" textLength="61.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   nelivrata??
+</text>
+<path d="M 210.0 689.0 L 181.0 727.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:2 3; stroke-width:1.0px;"/>
+<polyline points=" 185.0,715.0 181.0,727.0 190.0,720.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip59">
+<ellipse cx="387.0px" cy="643.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip59)">
+<linearGradient id="AdoSvgGradient11" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="353.0px" y="616.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient11);"/>
+</g>
+<ellipse cx="387.5px" cy="643.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="387.5px" cy="643.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polygon points=" 387.0,635.0 387.0,650.0 375.0,643.0 " style="fill:rgb(98,167,22); stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polygon points=" 399.0,635.0 399.0,650.0 387.0,643.0 " style="fill:rgb(98,167,22); stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(360.0,673.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(364.0,689.0), rotate(-0.0)" x="0px" y="0px" textLength="47.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   nelivrata
+</text>
+<clipPath id="AdoSvgClip64">
+<rect x="255.0px" y="735.0px" width="115.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip64)">
+<linearGradient id="AdoSvgGradient12" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="255.0px" y="735.0px" width="114.0px" height="61.0px" style="fill:url(#AdoSvgGradient12);"/>
+</g>
+<rect x="255.0px" y="735.0px" width="114.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<polygon points=" 304.0,786.0 312.0,780.0 312.0,792.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 312.0,786.0 319.0,780.0 319.0,792.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(277.0,742.0), rotate(-0.0)" x="0px" y="0px" textLength="70.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Returnare la
+</text>
+<text transform="translate(291.0,758.0), rotate(-0.0)" x="0px" y="0px" textLength="42.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   depozit
+</text>
+<path d="M 355.0 696.0 L 334.0 729.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:2 3; stroke-width:1.0px;"/>
+<polyline points=" 336.0,718.0 334.0,729.0 343.0,722.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip69">
+<ellipse cx="123.0px" cy="917.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip69)">
+<linearGradient id="AdoSvgGradient13" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="89.0px" y="890.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient13);"/>
+</g>
+<ellipse cx="123.5px" cy="917.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<rect x="108.5px" y="905.5px" width="30.0px" height="23.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<polyline points=" 108.0,905.0 123.0,917.0 138.0,905.0 " style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<text transform="translate(96.0,947.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(102.0,963.0), rotate(-0.0)" x="0px" y="0px" textLength="43.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   curierat
+</text>
+<text transform="translate(88.0,979.0), rotate(-0.0)" x="0px" y="0px" textLength="71.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   receptionata
+</text>
+<path d="M 550.0 641.0 L 390.0 801.0 C 389.0 802.0 386.0 804.0 384.0 805.0 L 155.0 903.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="550.5px" cy="641.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 168.0,902.0 155.0,903.0 165.0,894.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip74">
+<rect x="236.0px" y="886.0px" width="77.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip74)">
+<linearGradient id="AdoSvgGradient14" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="236.0px" y="886.0px" width="76.0px" height="61.0px" style="fill:url(#AdoSvgGradient14);"/>
+</g>
+<rect x="236.0px" y="886.0px" width="76.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(244.0,900.0), rotate(-0.0)" x="0px" y="0px" textLength="61.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Transporta
+</text>
+<text transform="translate(255.0,917.0), rotate(-0.0)" x="0px" y="0px" textLength="39.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   pachet
+</text>
+<clipPath id="AdoSvgClip79">
+<ellipse cx="236.0px" cy="954.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip79)">
+<linearGradient id="AdoSvgGradient15" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="202.0px" y="928.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient15);"/>
+</g>
+<ellipse cx="236.5px" cy="954.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="236.5px" cy="954.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polygon points=" 236.0,947.0 236.0,962.0 224.0,954.0 " style="fill:rgb(98,167,22); stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polygon points=" 248.0,947.0 248.0,962.0 236.0,954.0 " style="fill:rgb(98,167,22); stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip84">
+<rect x="113.0px" y="1019.0px" width="115.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip84)">
+<linearGradient id="AdoSvgGradient16" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="113.0px" y="1019.0px" width="114.0px" height="60.0px" style="fill:url(#AdoSvgGradient16);"/>
+</g>
+<rect x="113.0px" y="1019.0px" width="114.0px" height="60.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<polygon points=" 163.0,1070.0 170.0,1064.0 170.0,1075.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 170.0,1070.0 178.0,1064.0 178.0,1075.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(133.0,1025.0), rotate(-0.0)" x="0px" y="0px" textLength="74.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Retur produs
+</text>
+<text transform="translate(145.0,1041.0), rotate(-0.0)" x="0px" y="0px" textLength="50.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   nepredat
+</text>
+<path d="M 214.0 986.0 L 195.0 1013.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:2 3; stroke-width:1.0px;"/>
+<polyline points=" 199.0,1002.0 195.0,1013.0 205.0,1006.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 157.0 919.0 L 233.0 919.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 220.0,914.0 233.0,919.0 220.0,923.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 157.0 918.0 L 233.0 918.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 220.0,913.0 233.0,918.0 220.0,922.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 156.0 918.0 L 232.0 918.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 219.0,913.0 232.0,918.0 219.0,922.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 156.0 917.0 L 232.0 917.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 219.0,912.0 232.0,917.0 219.0,921.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 155.0 917.0 L 231.0 917.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 218.0,912.0 231.0,917.0 218.0,921.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip89">
+<rect x="350.0px" y="886.0px" width="86.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip89)">
+<linearGradient id="AdoSvgGradient17" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="350.0px" y="886.0px" width="85.0px" height="61.0px" style="fill:url(#AdoSvgGradient17);"/>
+</g>
+<rect x="350.0px" y="886.0px" width="85.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(356.0,900.0), rotate(-0.0)" x="0px" y="0px" textLength="73.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Contacteaza
+</text>
+<text transform="translate(376.0,917.0), rotate(-0.0)" x="0px" y="0px" textLength="31.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   client
+</text>
+<path d="M 319.0 919.0 L 346.0 919.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 333.0,914.0 346.0,919.0 333.0,923.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 319.0 918.0 L 346.0 918.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 333.0,913.0 346.0,918.0 333.0,922.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 318.0 918.0 L 345.0 918.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 332.0,913.0 345.0,918.0 332.0,922.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 318.0 917.0 L 345.0 917.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 332.0,912.0 345.0,917.0 332.0,921.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 317.0 917.0 L 344.0 917.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 331.0,912.0 344.0,917.0 331.0,921.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 505.0,919.0 531.0,945.0 558.0,919.0 531.0,892.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 505.0,918.0 531.0,944.0 558.0,918.0 531.0,891.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 504.0,918.0 530.0,944.0 557.0,918.0 530.0,891.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 504.0,917.0 530.0,943.0 557.0,917.0 530.0,890.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<clipPath id="AdoSvgClip94">
+<polygon points=" 503.0,917.0 529.0,943.0 556.0,917.0 529.0,890.0 " style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip94)">
+<linearGradient id="AdoSvgGradient18" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="480.0px" y="871.0px" width="106.0px" height="91.0px" style="fill:url(#AdoSvgGradient18);"/>
+</g>
+<polygon points=" 503.0,917.0 529.0,943.0 556.0,917.0 529.0,890.0 " style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<text transform="translate(497.0,947.0), rotate(-0.0)" x="0px" y="0px" textLength="65.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Client gasit
+</text>
+<path d="M 442.0 919.0 L 499.0 919.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 487.0,914.0 499.0,919.0 487.0,923.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 442.0 918.0 L 499.0 918.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 487.0,913.0 499.0,918.0 487.0,922.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 441.0 918.0 L 498.0 918.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 486.0,913.0 498.0,918.0 486.0,922.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 441.0 917.0 L 498.0 917.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 486.0,912.0 498.0,917.0 486.0,921.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 440.0 917.0 L 497.0 917.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 485.0,912.0 497.0,917.0 485.0,921.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip99">
+<rect x="600.0px" y="886.0px" width="86.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip99)">
+<linearGradient id="AdoSvgGradient19" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="600.0px" y="886.0px" width="85.0px" height="61.0px" style="fill:url(#AdoSvgGradient19);"/>
+</g>
+<rect x="600.0px" y="886.0px" width="85.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(604.0,909.0), rotate(-0.0)" x="0px" y="0px" textLength="77.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Preda pachet
+</text>
+<path d="M 563.0 919.0 L 597.0 919.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 584.0,914.0 597.0,919.0 584.0,923.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 563.0 918.0 L 597.0 918.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 584.0,913.0 597.0,918.0 584.0,922.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 562.0 918.0 L 596.0 918.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 583.0,913.0 596.0,918.0 583.0,922.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 562.0 917.0 L 596.0 917.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 583.0,912.0 596.0,917.0 583.0,921.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 561.0 917.0 L 595.0 917.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 582.0,912.0 595.0,917.0 582.0,921.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(570.0,924.0), rotate(-0.0)" x="0px" y="0px" textLength="16.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Da
+</text>
+<clipPath id="AdoSvgClip104">
+<ellipse cx="643.0px" cy="992.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip104)">
+<linearGradient id="AdoSvgGradient20" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="609.0px" y="966.0px" width="105.0px" height="53.0px" style="fill:url(#AdoSvgGradient20);"/>
+</g>
+<ellipse cx="643.0px" cy="992.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<polygon points=" 643.0,985.0 643.0,1000.0 630.0,992.0 " style="fill:rgb(136,136,0); stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<polygon points=" 655.0,985.0 655.0,1000.0 643.0,992.0 " style="fill:rgb(136,136,0); stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<text transform="translate(615.0,1022.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(598.0,1039.0), rotate(-0.0)" x="0px" y="0px" textLength="89.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   nelivrata(anulari
+</text>
+<text transform="translate(618.0,1055.0), rotate(-0.0)" x="0px" y="0px" textLength="50.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   la curier)
+</text>
+<path d="M 531.0 970.0 L 531.0 981.0 C 531.0 983.0 533.0 985.0 535.0 985.0 L 612.0 985.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 600.0,981.0 612.0,985.0 600.0,989.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 531.0 969.0 L 531.0 980.0 C 531.0 982.0 533.0 984.0 535.0 984.0 L 612.0 984.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 600.0,980.0 612.0,984.0 600.0,988.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 530.0 969.0 L 530.0 980.0 C 530.0 982.0 532.0 984.0 534.0 984.0 L 611.0 984.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 599.0,980.0 611.0,984.0 599.0,988.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 530.0 968.0 L 530.0 979.0 C 530.0 981.0 532.0 983.0 534.0 983.0 L 611.0 983.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 599.0,979.0 611.0,983.0 599.0,987.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 529.0 968.0 L 529.0 979.0 C 529.0 981.0 531.0 983.0 533.0 983.0 L 610.0 983.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 598.0,979.0 610.0,983.0 598.0,987.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(602.0,990.0), rotate(-0.0)" x="0px" y="0px" textLength="16.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Nu
+</text>
+<clipPath id="AdoSvgClip109">
+<rect x="728.0px" y="886.0px" width="114.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip109)">
+<linearGradient id="AdoSvgGradient21" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="728.0px" y="886.0px" width="113.0px" height="61.0px" style="fill:url(#AdoSvgGradient21);"/>
+</g>
+<rect x="728.0px" y="886.0px" width="113.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(734.0,900.0), rotate(-0.0)" x="0px" y="0px" textLength="101.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Deconecteaza cu
+</text>
+<text transform="translate(748.0,917.0), rotate(-0.0)" x="0px" y="0px" textLength="74.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comerciantul
+</text>
+<path d="M 693.0 919.0 L 724.0 919.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 711.0,914.0 724.0,919.0 711.0,923.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 693.0 918.0 L 724.0 918.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 711.0,913.0 724.0,918.0 711.0,922.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 692.0 918.0 L 723.0 918.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 710.0,913.0 723.0,918.0 710.0,922.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 692.0 917.0 L 723.0 917.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 710.0,912.0 723.0,917.0 710.0,921.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 691.0 917.0 L 722.0 917.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 709.0,912.0 722.0,917.0 709.0,921.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip114">
+<ellipse cx="784.0px" cy="1011.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip114)">
+<linearGradient id="AdoSvgGradient22" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="750.0px" y="985.0px" width="106.0px" height="52.0px" style="fill:url(#AdoSvgGradient22);"/>
+</g>
+<ellipse cx="784.0px" cy="1011.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<text transform="translate(757.0,1041.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(768.0,1058.0), rotate(-0.0)" x="0px" y="0px" textLength="33.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   livrata
+</text>
+<path d="M 786.0 954.0 L 786.0 981.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 790.0,968.0 786.0,981.0 782.0,968.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 786.0 953.0 L 786.0 980.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 790.0,967.0 786.0,980.0 782.0,967.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 785.0 953.0 L 785.0 980.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 789.0,967.0 785.0,980.0 781.0,967.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 785.0 952.0 L 785.0 979.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 789.0,966.0 785.0,979.0 781.0,966.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 784.0 952.0 L 784.0 979.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 788.0,966.0 784.0,979.0 780.0,966.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip119">
+<ellipse cx="973.0px" cy="926.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip119)">
+<linearGradient id="AdoSvgGradient23" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="939.0px" y="900.0px" width="106.0px" height="52.0px" style="fill:url(#AdoSvgGradient23);"/>
+</g>
+<ellipse cx="973.5px" cy="926.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<rect x="958.5px" y="915.5px" width="30.0px" height="22.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<polyline points=" 958.0,915.0 973.0,926.0 988.0,915.0 " style="fill:none; stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<text transform="translate(946.0,956.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(960.0,972.0), rotate(-0.0)" x="0px" y="0px" textLength="26.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   retur
+</text>
+<text transform="translate(938.0,989.0), rotate(-0.0)" x="0px" y="0px" textLength="71.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   receptionata
+</text>
+<clipPath id="AdoSvgClip124">
+<rect x="1049.0px" y="896.0px" width="114.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip124)">
+<linearGradient id="AdoSvgGradient24" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="1049.0px" y="896.0px" width="113.0px" height="60.0px" style="fill:url(#AdoSvgGradient24);"/>
+</g>
+<rect x="1049.0px" y="896.0px" width="113.0px" height="60.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(1075.0,910.0), rotate(-0.0)" x="0px" y="0px" textLength="61.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Transporta
+</text>
+<text transform="translate(1062.0,926.0), rotate(-0.0)" x="0px" y="0px" textLength="87.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produs returnat
+</text>
+<path d="M 1007.0 928.0 L 1045.0 928.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1033.0,924.0 1045.0,928.0 1033.0,932.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1007.0 927.0 L 1045.0 927.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1033.0,923.0 1045.0,927.0 1033.0,931.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1006.0 927.0 L 1044.0 927.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1032.0,923.0 1044.0,927.0 1032.0,931.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1006.0 926.0 L 1044.0 926.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1032.0,922.0 1044.0,926.0 1032.0,930.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1005.0 926.0 L 1043.0 926.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1031.0,922.0 1043.0,926.0 1031.0,930.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip129">
+<ellipse cx="1247.0px" cy="926.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip129)">
+<linearGradient id="AdoSvgGradient25" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="1213.0px" y="900.0px" width="106.0px" height="52.0px" style="fill:url(#AdoSvgGradient25);"/>
+</g>
+<ellipse cx="1247.0px" cy="926.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<rect x="1232.0px" y="915.0px" width="30.0px" height="22.0px" rx="0.0px" ry="0.0px" style="fill:rgb(136,136,0); stroke:rgb(136,136,0); stroke-width:2.0px;"/>
+<polyline points=" 1232.0,915.0 1247.0,926.0 1262.0,915.0 " style="fill:none; stroke:rgb(255,255,255); stroke-width:1.0px;"/>
+<text transform="translate(1217.0,956.0), rotate(-0.0)" x="0px" y="0px" textLength="61.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Retur livrat
+</text>
+<path d="M 1170.0 928.0 L 1217.0 928.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1205.0,924.0 1217.0,928.0 1205.0,932.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1170.0 927.0 L 1217.0 927.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1205.0,923.0 1217.0,927.0 1205.0,931.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1169.0 927.0 L 1216.0 927.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1204.0,923.0 1216.0,927.0 1204.0,931.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1169.0 926.0 L 1216.0 926.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1204.0,922.0 1216.0,926.0 1204.0,930.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1168.0 926.0 L 1215.0 926.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1203.0,922.0 1215.0,926.0 1203.0,930.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 779.0,276.0 805.0,302.0 832.0,276.0 805.0,250.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 805.0,268.0 812.0,275.0 809.0,282.0 801.0,282.0 798.0,275.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="805.0px" cy="276.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="805.0px" cy="276.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 779.0,275.0 805.0,301.0 832.0,275.0 805.0,249.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 805.0,267.0 812.0,274.0 809.0,281.0 801.0,281.0 798.0,274.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="805.0px" cy="275.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="805.0px" cy="275.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 778.0,275.0 804.0,301.0 831.0,275.0 804.0,249.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 804.0,267.0 811.0,274.0 808.0,281.0 800.0,281.0 797.0,274.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="804.0px" cy="275.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="804.0px" cy="275.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 778.0,274.0 804.0,300.0 831.0,274.0 804.0,248.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 804.0,266.0 811.0,273.0 808.0,280.0 800.0,280.0 797.0,273.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="804.0px" cy="274.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="804.0px" cy="274.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<clipPath id="AdoSvgClip134">
+<polygon points=" 777.0,274.0 803.0,300.0 830.0,274.0 803.0,248.0 " style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip134)">
+<linearGradient id="AdoSvgGradient26" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="754.0px" y="229.0px" width="106.0px" height="90.0px" style="fill:url(#AdoSvgGradient26);"/>
+</g>
+<polygon points=" 777.0,274.0 803.0,300.0 830.0,274.0 803.0,248.0 " style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<polygon points=" 803.0,266.0 810.0,273.0 807.0,280.0 799.0,280.0 796.0,273.0 " style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<ellipse cx="803.0px" cy="274.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<ellipse cx="803.0px" cy="274.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<text transform="translate(775.0,304.0), rotate(-0.0)" x="0px" y="0px" textLength="56.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Asteptare
+</text>
+<text transform="translate(744.0,321.0), rotate(-0.0)" x="0px" y="0px" textLength="119.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   decizionala(speranta
+</text>
+<text transform="translate(784.0,337.0), rotate(-0.0)" x="0px" y="0px" textLength="39.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   sosire)
+</text>
+<clipPath id="AdoSvgClip139">
+<ellipse cx="917.0px" cy="274.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip139)">
+<linearGradient id="AdoSvgGradient27" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="883.0px" y="248.0px" width="105.0px" height="52.0px" style="fill:url(#AdoSvgGradient27);"/>
+</g>
+<ellipse cx="917.5px" cy="274.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="917.5px" cy="274.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<rect x="901.5px" y="263.5px" width="31.0px" height="22.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polyline points=" 901.0,263.0 917.0,274.0 932.0,263.0 " style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(890.0,304.0), rotate(-0.0)" x="0px" y="0px" textLength="54.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Notificare
+</text>
+<text transform="translate(885.0,321.0), rotate(-0.0)" x="0px" y="0px" textLength="64.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   de la curier
+</text>
+<text transform="translate(897.0,337.0), rotate(-0.0)" x="0px" y="0px" textLength="39.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   primita
+</text>
+<path d="M 837.0 276.0 L 886.0 276.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 874.0,272.0 886.0,276.0 874.0,280.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 837.0 275.0 L 886.0 275.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 874.0,271.0 886.0,275.0 874.0,279.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 836.0 275.0 L 885.0 275.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 873.0,271.0 885.0,275.0 873.0,279.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 836.0 274.0 L 885.0 274.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 873.0,270.0 885.0,274.0 873.0,278.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 835.0 274.0 L 884.0 274.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 872.0,270.0 884.0,274.0 872.0,278.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip160">
+<ellipse cx="803.0px" cy="425.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip160)">
+<linearGradient id="AdoSvgGradient28" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="769.0px" y="399.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient28);"/>
+</g>
+<ellipse cx="803.5px" cy="425.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="803.5px" cy="425.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="794.0px" y1="410.0px" x2="812.0px" y2="440.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="803.0px" y1="410.0px" x2="803.0px" y2="440.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="812.0px" y1="410.0px" x2="794.0px" y2="440.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="788.0px" y1="416.0px" x2="818.0px" y2="434.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="788.0px" y1="425.0px" x2="818.0px" y2="425.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="788.0px" y1="434.0px" x2="818.0px" y2="416.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip162">
+<ellipse cx="804.0px" cy="426.0px" rx="19.0px" ry="19.0px" style="fill:none;"/>
+</clipPath>
+<mask id="AdoSvgMask162">
+<rect x="0.0px" y="0.0px" width="2169.0px" height="1092.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<ellipse cx="804.0px" cy="426.0px" rx="19.0px" ry="19.0px"/>
+</mask>
+<clipPath id="AdoSvgClip163">
+<ellipse cx="803.0px" cy="425.0px" rx="15.5px" ry="15.5px" style="fill:none;"/>
+</clipPath>
+<mask id="AdoSvgMask163">
+<rect x="0.0px" y="0.0px" width="2169.0px" height="1092.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<ellipse cx="803.0px" cy="425.0px" rx="15.5px" ry="15.5px"/>
+</mask>
+<g clip-path="url(#AdoSvgClip162)" mask="url(#AdoSvgMask163)">
+<linearGradient id="AdoSvgGradient29" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="769.0px" y="399.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient29);"/>
+</g>
+<g clip-path="url(#AdoSvgClip163)" mask="url(#AdoSvgMask162)">
+<linearGradient id="AdoSvgGradient29" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="769.0px" y="399.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient29);"/>
+</g>
+<ellipse cx="803.5px" cy="425.5px" rx="15.0px" ry="15.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip164">
+<ellipse cx="803.0px" cy="425.0px" rx="9.5px" ry="9.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip164)">
+<linearGradient id="AdoSvgGradient30" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="769.0px" y="399.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient30);"/>
+</g>
+<line x1="803.0px" y1="425.0px" x2="805.0px" y2="414.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="803.0px" y1="425.0px" x2="811.0px" y2="425.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="803.5px" cy="425.5px" rx="1.5px" ry="1.5px" style="fill:rgb(98,167,22); stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(770.0,455.0), rotate(-0.0)" x="0px" y="0px" textLength="67.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Nici o veste
+</text>
+<text transform="translate(768.0,472.0), rotate(-0.0)" x="0px" y="0px" textLength="70.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   in 20 de zile
+</text>
+<path d="M 805.0 360.0 L 805.0 395.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 809.0,383.0 805.0,395.0 801.0,383.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 805.0 359.0 L 805.0 394.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 809.0,382.0 805.0,394.0 801.0,382.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 804.0 359.0 L 804.0 394.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 808.0,382.0 804.0,394.0 800.0,382.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 804.0 358.0 L 804.0 393.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 808.0,381.0 804.0,393.0 800.0,381.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 803.0 358.0 L 803.0 393.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 807.0,381.0 803.0,393.0 799.0,381.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 660.0 329.0 L 773.0 288.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 760.0,288.0 773.0,288.0 763.0,296.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 660.0 328.0 L 773.0 287.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 760.0,287.0 773.0,287.0 763.0,295.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 659.0 328.0 L 772.0 287.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 759.0,287.0 772.0,287.0 762.0,295.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 659.0 327.0 L 772.0 286.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 759.0,286.0 772.0,286.0 762.0,294.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 658.0 327.0 L 771.0 286.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 758.0,286.0 771.0,286.0 761.0,294.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip169">
+<rect x="898.0px" y="395.0px" width="76.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip169)">
+<linearGradient id="AdoSvgGradient31" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="898.0px" y="395.0px" width="75.0px" height="60.0px" style="fill:url(#AdoSvgGradient31);"/>
+</g>
+<rect x="898.0px" y="395.0px" width="75.0px" height="60.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(914.0,409.0), rotate(-0.0)" x="0px" y="0px" textLength="43.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Notifica
+</text>
+<text transform="translate(909.0,425.0), rotate(-0.0)" x="0px" y="0px" textLength="53.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   intarziere
+</text>
+<path d="M 837.0 427.0 L 894.0 427.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 881.0,423.0 894.0,427.0 881.0,431.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 837.0 426.0 L 894.0 426.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 881.0,422.0 894.0,426.0 881.0,430.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 836.0 426.0 L 893.0 426.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 880.0,422.0 893.0,426.0 880.0,430.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 836.0 425.0 L 893.0 425.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 880.0,421.0 893.0,425.0 880.0,429.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 835.0 425.0 L 892.0 425.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 879.0,421.0 892.0,425.0 879.0,429.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip174">
+<ellipse cx="1049.0px" cy="425.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip174)">
+<linearGradient id="AdoSvgGradient32" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="1015.0px" y="399.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient32);"/>
+</g>
+<ellipse cx="1049.0px" cy="425.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<rect x="1034.0px" y="414.0px" width="30.0px" height="23.0px" rx="0.0px" ry="0.0px" style="fill:rgb(136,136,0); stroke:rgb(136,136,0); stroke-width:2.0px;"/>
+<polyline points=" 1034.0,414.0 1049.0,425.0 1064.0,414.0 " style="fill:none; stroke:rgb(255,255,255); stroke-width:1.0px;"/>
+<text transform="translate(1022.0,455.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(1028.0,472.0), rotate(-0.0)" x="0px" y="0px" textLength="43.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   ratacita
+</text>
+<path d="M 981.0 427.0 L 1019.0 427.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1006.0,423.0 1019.0,427.0 1006.0,431.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 981.0 426.0 L 1019.0 426.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1006.0,422.0 1019.0,426.0 1006.0,430.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 980.0 426.0 L 1018.0 426.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1005.0,422.0 1018.0,426.0 1005.0,430.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 980.0 425.0 L 1018.0 425.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1005.0,421.0 1018.0,425.0 1005.0,429.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 979.0 425.0 L 1017.0 425.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1004.0,421.0 1017.0,425.0 1004.0,429.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip179">
+<rect x="1077.0px" y="244.0px" width="115.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip179)">
+<linearGradient id="AdoSvgGradient33" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="1077.0px" y="244.0px" width="114.0px" height="60.0px" style="fill:url(#AdoSvgGradient33);"/>
+</g>
+<rect x="1077.0px" y="244.0px" width="114.0px" height="60.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(1085.0,266.0), rotate(-0.0)" x="0px" y="0px" textLength="98.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Plateste la curier
+</text>
+<path d="M 951.0 276.0 L 1073.0 276.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1061.0,272.0 1073.0,276.0 1061.0,280.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 951.0 275.0 L 1073.0 275.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1061.0,271.0 1073.0,275.0 1061.0,279.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 950.0 275.0 L 1072.0 275.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1060.0,271.0 1072.0,275.0 1060.0,279.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 950.0 274.0 L 1072.0 274.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1060.0,270.0 1072.0,274.0 1060.0,278.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 949.0 274.0 L 1071.0 274.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1059.0,270.0 1071.0,274.0 1059.0,278.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip184">
+<rect x="1238.0px" y="244.0px" width="114.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip184)">
+<linearGradient id="AdoSvgGradient34" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="1238.0px" y="244.0px" width="113.0px" height="60.0px" style="fill:url(#AdoSvgGradient34);"/>
+</g>
+<rect x="1238.0px" y="244.0px" width="113.0px" height="60.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(1245.0,266.0), rotate(-0.0)" x="0px" y="0px" textLength="100.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Foloseste produs
+</text>
+<clipPath id="AdoSvgClip189">
+<ellipse cx="1417.0px" cy="274.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip189)">
+<linearGradient id="AdoSvgGradient35" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="1383.0px" y="248.0px" width="106.0px" height="52.0px" style="fill:url(#AdoSvgGradient35);"/>
+</g>
+<ellipse cx="1417.0px" cy="274.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<text transform="translate(1401.0,304.0), rotate(-0.0)" x="0px" y="0px" textLength="33.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Client
+</text>
+<text transform="translate(1389.0,321.0), rotate(-0.0)" x="0px" y="0px" textLength="56.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   satisfacut
+</text>
+<path d="M 1198.0 276.0 L 1234.0 276.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1222.0,272.0 1234.0,276.0 1222.0,280.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1198.0 275.0 L 1234.0 275.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1222.0,271.0 1234.0,275.0 1222.0,279.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1197.0 275.0 L 1233.0 275.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1221.0,271.0 1233.0,275.0 1221.0,279.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1197.0 274.0 L 1233.0 274.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1221.0,270.0 1233.0,274.0 1221.0,278.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1196.0 274.0 L 1232.0 274.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1220.0,270.0 1232.0,274.0 1220.0,278.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1359.0 276.0 L 1387.0 276.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1375.0,272.0 1387.0,276.0 1375.0,280.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1359.0 275.0 L 1387.0 275.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1375.0,271.0 1387.0,275.0 1375.0,279.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1358.0 275.0 L 1386.0 275.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1374.0,271.0 1386.0,275.0 1374.0,279.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1358.0 274.0 L 1386.0 274.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1374.0,270.0 1386.0,274.0 1374.0,278.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1357.0 274.0 L 1385.0 274.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1373.0,270.0 1385.0,274.0 1373.0,278.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip194">
+<ellipse cx="1257.0px" cy="321.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip194)">
+<linearGradient id="AdoSvgGradient36" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1223.0px" y="295.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient36);"/>
+</g>
+<ellipse cx="1257.5px" cy="321.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="1257.5px" cy="321.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<rect x="1243.5px" y="308.5px" width="27.0px" height="26.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1247.0px" y1="314.0px" x2="1266.0px" y2="314.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1247.0px" y1="329.0px" x2="1266.0px" y2="329.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1247.0px" y1="324.0px" x2="1266.0px" y2="324.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1247.0px" y1="319.0px" x2="1266.0px" y2="319.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(1229.0,351.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Probleme
+</text>
+<text transform="translate(1223.0,368.0), rotate(-0.0)" x="0px" y="0px" textLength="67.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   cu produsul
+</text>
+<clipPath id="AdoSvgClip199">
+<rect x="1153.0px" y="423.0px" width="114.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip199)">
+<linearGradient id="AdoSvgGradient37" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="1153.0px" y="423.0px" width="113.0px" height="61.0px" style="fill:url(#AdoSvgGradient37);"/>
+</g>
+<rect x="1153.0px" y="423.0px" width="113.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(1177.0,437.0), rotate(-0.0)" x="0px" y="0px" textLength="66.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Returneaza
+</text>
+<text transform="translate(1165.0,454.0), rotate(-0.0)" x="0px" y="0px" textLength="89.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produs la curier
+</text>
+<path d="M 1235.0 391.0 L 1224.0 420.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1233.0,409.0 1224.0,420.0 1225.0,406.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1235.0 390.0 L 1224.0 419.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1233.0,408.0 1224.0,419.0 1225.0,405.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1234.0 390.0 L 1223.0 419.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1232.0,408.0 1223.0,419.0 1224.0,405.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1234.0 389.0 L 1223.0 418.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1232.0,407.0 1223.0,418.0 1224.0,404.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1233.0 389.0 L 1222.0 418.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1231.0,407.0 1222.0,418.0 1223.0,404.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip204">
+<ellipse cx="1323.0px" cy="444.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip204)">
+<linearGradient id="AdoSvgGradient38" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1289.0px" y="418.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient38);"/>
+</g>
+<ellipse cx="1323.5px" cy="444.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="1323.5px" cy="444.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<rect x="1308.5px" y="433.5px" width="30.0px" height="22.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polyline points=" 1308.0,433.0 1323.0,444.0 1338.0,433.0 " style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(1297.0,474.0), rotate(-0.0)" x="0px" y="0px" textLength="52.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Asteapta
+</text>
+<text transform="translate(1285.0,491.0), rotate(-0.0)" x="0px" y="0px" textLength="75.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   bani returnati
+</text>
+<clipPath id="AdoSvgClip209">
+<ellipse cx="1427.0px" cy="444.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip209)">
+<linearGradient id="AdoSvgGradient39" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="1393.0px" y="418.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient39);"/>
+</g>
+<ellipse cx="1427.0px" cy="444.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<text transform="translate(1411.0,474.0), rotate(-0.0)" x="0px" y="0px" textLength="33.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Client
+</text>
+<text transform="translate(1392.0,491.0), rotate(-0.0)" x="0px" y="0px" textLength="70.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   nesatisfacut
+</text>
+<path d="M 1274.0 450.0 L 1293.0 449.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1280.0,446.0 1293.0,449.0 1281.0,454.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1274.0 449.0 L 1293.0 448.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1280.0,445.0 1293.0,448.0 1281.0,453.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1273.0 449.0 L 1292.0 448.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1279.0,445.0 1292.0,448.0 1280.0,453.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1273.0 448.0 L 1292.0 447.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1279.0,444.0 1292.0,447.0 1280.0,452.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1272.0 448.0 L 1291.0 447.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1278.0,444.0 1291.0,447.0 1279.0,452.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1357.0 446.0 L 1397.0 446.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1384.0,442.0 1397.0,446.0 1384.0,450.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1357.0 445.0 L 1397.0 445.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1384.0,441.0 1397.0,445.0 1384.0,449.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1356.0 445.0 L 1396.0 445.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1383.0,441.0 1396.0,445.0 1383.0,449.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1356.0 444.0 L 1396.0 444.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1383.0,440.0 1396.0,444.0 1383.0,448.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1355.0 444.0 L 1395.0 444.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1382.0,440.0 1395.0,444.0 1382.0,448.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 731.0,607.0 758.0,633.0 784.0,607.0 758.0,580.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 758.0,598.0 765.0,606.0 762.0,613.0 754.0,613.0 751.0,606.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="758.0px" cy="607.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="758.0px" cy="607.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 731.0,606.0 758.0,632.0 784.0,606.0 758.0,579.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 758.0,597.0 765.0,605.0 762.0,612.0 754.0,612.0 751.0,605.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="758.0px" cy="606.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="758.0px" cy="606.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 730.0,606.0 757.0,632.0 783.0,606.0 757.0,579.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 757.0,597.0 764.0,605.0 761.0,612.0 753.0,612.0 750.0,605.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="757.0px" cy="606.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="757.0px" cy="606.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 730.0,605.0 757.0,631.0 783.0,605.0 757.0,578.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 757.0,596.0 764.0,604.0 761.0,611.0 753.0,611.0 750.0,604.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="757.0px" cy="605.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="757.0px" cy="605.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<clipPath id="AdoSvgClip214">
+<polygon points=" 729.0,605.0 756.0,631.0 782.0,605.0 756.0,578.0 " style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip214)">
+<linearGradient id="AdoSvgGradient40" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="707.0px" y="559.0px" width="106.0px" height="91.0px" style="fill:url(#AdoSvgGradient40);"/>
+</g>
+<polygon points=" 729.0,605.0 756.0,631.0 782.0,605.0 756.0,578.0 " style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<polygon points=" 756.0,596.0 763.0,604.0 760.0,611.0 752.0,611.0 749.0,604.0 " style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<ellipse cx="756.0px" cy="605.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<ellipse cx="756.0px" cy="605.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<text transform="translate(728.0,635.0), rotate(-0.0)" x="0px" y="0px" textLength="56.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Asteptare
+</text>
+<text transform="translate(697.0,651.0), rotate(-0.0)" x="0px" y="0px" textLength="119.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   decizionala(speranta
+</text>
+<text transform="translate(738.0,667.0), rotate(-0.0)" x="0px" y="0px" textLength="37.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   livrare)
+</text>
+<clipPath id="AdoSvgClip219">
+<ellipse cx="756.0px" cy="737.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip219)">
+<linearGradient id="AdoSvgGradient41" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="722.0px" y="711.0px" width="106.0px" height="52.0px" style="fill:url(#AdoSvgGradient41);"/>
+</g>
+<ellipse cx="756.5px" cy="737.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="756.5px" cy="737.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<rect x="741.5px" y="726.5px" width="30.0px" height="22.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polyline points=" 741.0,726.0 756.0,737.0 771.0,726.0 " style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(730.0,767.0), rotate(-0.0)" x="0px" y="0px" textLength="52.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Primeste
+</text>
+<text transform="translate(737.0,783.0), rotate(-0.0)" x="0px" y="0px" textLength="38.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   coletul
+</text>
+<text transform="translate(736.0,800.0), rotate(-0.0)" x="0px" y="0px" textLength="40.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   nelivrat
+</text>
+<path d="M 758.0 691.0 L 758.0 707.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 762.0,694.0 758.0,707.0 754.0,694.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 758.0 690.0 L 758.0 706.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 762.0,693.0 758.0,706.0 754.0,693.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 757.0 690.0 L 757.0 706.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 761.0,693.0 757.0,706.0 753.0,693.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 757.0 689.0 L 757.0 705.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 761.0,692.0 757.0,705.0 753.0,692.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 756.0 689.0 L 756.0 705.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 760.0,692.0 756.0,705.0 752.0,692.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip224">
+<ellipse cx="850.0px" cy="699.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip224)">
+<linearGradient id="AdoSvgGradient42" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="816.0px" y="673.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient42);"/>
+</g>
+<ellipse cx="850.0px" cy="699.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<polygon points=" 850.0,692.0 850.0,707.0 838.0,699.0 " style="fill:rgb(136,136,0); stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<polygon points=" 862.0,692.0 862.0,707.0 850.0,699.0 " style="fill:rgb(136,136,0); stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<text transform="translate(823.0,729.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(806.0,746.0), rotate(-0.0)" x="0px" y="0px" textLength="89.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   nelivrata(anulari
+</text>
+<text transform="translate(845.0,762.0), rotate(-0.0)" x="0px" y="0px" textLength="10.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   la
+</text>
+<text transform="translate(817.0,778.0), rotate(-0.0)" x="0px" y="0px" textLength="68.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comerciant)
+</text>
+<path d="M 790.0 726.0 L 787.0 727.0 L 798.0 723.0 L 820.0 714.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 807.0,715.0 820.0,714.0 810.0,722.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 790.0 725.0 L 787.0 726.0 L 798.0 722.0 L 820.0 713.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 807.0,714.0 820.0,713.0 810.0,721.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 789.0 725.0 L 786.0 726.0 L 797.0 722.0 L 819.0 713.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 806.0,714.0 819.0,713.0 809.0,721.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 789.0 724.0 L 786.0 725.0 L 797.0 721.0 L 819.0 712.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 806.0,713.0 819.0,712.0 809.0,720.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 788.0 724.0 L 785.0 725.0 L 796.0 721.0 L 818.0 712.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 805.0,713.0 818.0,712.0 808.0,720.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 650.0 607.0 L 726.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 713.0,603.0 726.0,607.0 713.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 650.0 606.0 L 726.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 713.0,602.0 726.0,606.0 713.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 649.0 606.0 L 725.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 712.0,602.0 725.0,606.0 712.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 649.0 605.0 L 725.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 712.0,601.0 725.0,605.0 712.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 648.0 605.0 L 724.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 711.0,601.0 724.0,605.0 711.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip229">
+<ellipse cx="945.0px" cy="605.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip229)">
+<linearGradient id="AdoSvgGradient43" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="911.0px" y="578.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient43);"/>
+</g>
+<ellipse cx="945.5px" cy="605.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="945.5px" cy="605.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<rect x="930.5px" y="593.5px" width="30.0px" height="23.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polyline points=" 930.0,593.0 945.0,605.0 960.0,593.0 " style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(915.0,635.0), rotate(-0.0)" x="0px" y="0px" textLength="59.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Decontare
+</text>
+<text transform="translate(915.0,651.0), rotate(-0.0)" x="0px" y="0px" textLength="60.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   cu succes
+</text>
+<path d="M 790.0 607.0 L 877.0 607.0 L 888.0 607.0 L 915.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 902.0,603.0 915.0,607.0 902.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 790.0 606.0 L 877.0 606.0 L 888.0 606.0 L 915.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 902.0,602.0 915.0,606.0 902.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 789.0 606.0 L 876.0 606.0 L 887.0 606.0 L 914.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 901.0,602.0 914.0,606.0 901.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 789.0 605.0 L 876.0 605.0 L 887.0 605.0 L 914.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 901.0,601.0 914.0,605.0 901.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 788.0 605.0 L 875.0 605.0 L 886.0 605.0 L 913.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 900.0,601.0 913.0,605.0 900.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1024.0,569.0 1051.0,595.0 1077.0,569.0 1051.0,542.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 1051.0,561.0 1058.0,568.0 1055.0,575.0 1047.0,575.0 1044.0,568.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="1051.0px" cy="569.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="1051.0px" cy="569.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 1024.0,568.0 1051.0,594.0 1077.0,568.0 1051.0,541.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 1051.0,560.0 1058.0,567.0 1055.0,574.0 1047.0,574.0 1044.0,567.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="1051.0px" cy="568.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<ellipse cx="1051.0px" cy="568.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<polygon points=" 1023.0,568.0 1050.0,594.0 1076.0,568.0 1050.0,541.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 1050.0,560.0 1057.0,567.0 1054.0,574.0 1046.0,574.0 1043.0,567.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="1050.0px" cy="568.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="1050.0px" cy="568.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 1023.0,567.0 1050.0,593.0 1076.0,567.0 1050.0,540.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<polygon points=" 1050.0,559.0 1057.0,566.0 1054.0,573.0 1046.0,573.0 1043.0,566.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="1050.0px" cy="567.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<ellipse cx="1050.0px" cy="567.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<clipPath id="AdoSvgClip234">
+<polygon points=" 1022.0,567.0 1049.0,593.0 1075.0,567.0 1049.0,540.0 " style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip234)">
+<linearGradient id="AdoSvgGradient44" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="1000.0px" y="522.0px" width="106.0px" height="90.0px" style="fill:url(#AdoSvgGradient44);"/>
+</g>
+<polygon points=" 1022.0,567.0 1049.0,593.0 1075.0,567.0 1049.0,540.0 " style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<polygon points=" 1049.0,559.0 1056.0,566.0 1053.0,573.0 1045.0,573.0 1042.0,566.0 " style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<ellipse cx="1049.0px" cy="567.0px" rx="14.0px" ry="14.0px" style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<ellipse cx="1049.0px" cy="567.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(171,171,42); stroke-width:2.0px;"/>
+<text transform="translate(1021.0,597.0), rotate(-0.0)" x="0px" y="0px" textLength="56.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Asteptare
+</text>
+<text transform="translate(995.0,613.0), rotate(-0.0)" x="0px" y="0px" textLength="108.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   decizionala(riscuri)
+</text>
+<path d="M 979.0 595.0 L 1019.0 581.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1005.0,581.0 1019.0,581.0 1008.0,589.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 979.0 594.0 L 1019.0 580.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1005.0,580.0 1019.0,580.0 1008.0,588.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 978.0 594.0 L 1018.0 580.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1004.0,580.0 1018.0,580.0 1007.0,588.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 978.0 593.0 L 1018.0 579.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1004.0,579.0 1018.0,579.0 1007.0,587.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 977.0 593.0 L 1017.0 579.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1003.0,579.0 1017.0,579.0 1006.0,587.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip255">
+<ellipse cx="1049.0px" cy="728.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip255)">
+<linearGradient id="AdoSvgGradient45" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1015.0px" y="701.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient45);"/>
+</g>
+<ellipse cx="1049.5px" cy="728.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="1049.5px" cy="728.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1040.0px" y1="712.0px" x2="1058.0px" y2="743.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1049.0px" y1="712.0px" x2="1049.0px" y2="743.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1058.0px" y1="712.0px" x2="1040.0px" y2="743.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1034.0px" y1="718.0px" x2="1064.0px" y2="737.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1034.0px" y1="728.0px" x2="1064.0px" y2="728.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1034.0px" y1="737.0px" x2="1064.0px" y2="718.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip257">
+<ellipse cx="1050.0px" cy="729.0px" rx="19.0px" ry="19.0px" style="fill:none;"/>
+</clipPath>
+<mask id="AdoSvgMask257">
+<rect x="0.0px" y="0.0px" width="2169.0px" height="1092.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<ellipse cx="1050.0px" cy="729.0px" rx="19.0px" ry="19.0px"/>
+</mask>
+<clipPath id="AdoSvgClip258">
+<ellipse cx="1049.0px" cy="728.0px" rx="15.5px" ry="15.5px" style="fill:none;"/>
+</clipPath>
+<mask id="AdoSvgMask258">
+<rect x="0.0px" y="0.0px" width="2169.0px" height="1092.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<ellipse cx="1049.0px" cy="728.0px" rx="15.5px" ry="15.5px"/>
+</mask>
+<g clip-path="url(#AdoSvgClip257)" mask="url(#AdoSvgMask258)">
+<linearGradient id="AdoSvgGradient46" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1015.0px" y="701.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient46);"/>
+</g>
+<g clip-path="url(#AdoSvgClip258)" mask="url(#AdoSvgMask257)">
+<linearGradient id="AdoSvgGradient46" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1015.0px" y="701.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient46);"/>
+</g>
+<ellipse cx="1049.5px" cy="728.5px" rx="15.0px" ry="15.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip259">
+<ellipse cx="1049.0px" cy="728.0px" rx="9.5px" ry="9.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip259)">
+<linearGradient id="AdoSvgGradient47" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1015.0px" y="701.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient47);"/>
+</g>
+<line x1="1049.0px" y1="728.0px" x2="1051.0px" y2="716.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1049.0px" y1="728.0px" x2="1056.0px" y2="728.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="1049.5px" cy="728.5px" rx="1.5px" ry="1.5px" style="fill:rgb(98,167,22); stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(1021.0,758.0), rotate(-0.0)" x="0px" y="0px" textLength="56.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   30 de zile
+</text>
+<text transform="translate(1023.0,774.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   fara retur
+</text>
+<path d="M 1051.0 637.0 L 1051.0 697.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1055.0,685.0 1051.0,697.0 1047.0,685.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1051.0 636.0 L 1051.0 696.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1055.0,684.0 1051.0,696.0 1047.0,684.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1050.0 636.0 L 1050.0 696.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1054.0,684.0 1050.0,696.0 1046.0,684.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1050.0 635.0 L 1050.0 695.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1054.0,683.0 1050.0,695.0 1046.0,683.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1049.0 635.0 L 1049.0 695.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1053.0,683.0 1049.0,695.0 1045.0,683.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip264">
+<ellipse cx="1134.0px" cy="728.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip264)">
+<linearGradient id="AdoSvgGradient48" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="1100.0px" y="701.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient48);"/>
+</g>
+<ellipse cx="1134.0px" cy="728.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<text transform="translate(1107.0,758.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(1108.0,774.0), rotate(-0.0)" x="0px" y="0px" textLength="52.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   incheiata
+</text>
+<text transform="translate(1101.0,790.0), rotate(-0.0)" x="0px" y="0px" textLength="67.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   satisfacator
+</text>
+<path d="M 1083.0 730.0 L 1104.0 730.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1091.0,725.0 1104.0,730.0 1091.0,734.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1083.0 729.0 L 1104.0 729.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1091.0,724.0 1104.0,729.0 1091.0,733.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1082.0 729.0 L 1103.0 729.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1090.0,724.0 1103.0,729.0 1090.0,733.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1082.0 728.0 L 1103.0 728.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1090.0,723.0 1103.0,728.0 1090.0,732.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1081.0 728.0 L 1102.0 728.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1089.0,723.0 1102.0,728.0 1089.0,732.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip269">
+<ellipse cx="1153.0px" cy="605.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip269)">
+<linearGradient id="AdoSvgGradient49" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1119.0px" y="578.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient49);"/>
+</g>
+<ellipse cx="1153.5px" cy="605.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="1153.5px" cy="605.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<rect x="1138.5px" y="593.5px" width="30.0px" height="23.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polyline points=" 1138.0,593.0 1153.0,605.0 1168.0,593.0 " style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(1126.0,635.0), rotate(-0.0)" x="0px" y="0px" textLength="54.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Solicitare
+</text>
+<text transform="translate(1118.0,651.0), rotate(-0.0)" x="0px" y="0px" textLength="69.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   retur primita
+</text>
+<path d="M 1083.0 581.0 L 1123.0 595.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1112.0,587.0 1123.0,595.0 1109.0,595.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1083.0 580.0 L 1123.0 594.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1112.0,586.0 1123.0,594.0 1109.0,594.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1082.0 580.0 L 1122.0 594.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1111.0,586.0 1122.0,594.0 1108.0,594.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1082.0 579.0 L 1122.0 593.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1111.0,585.0 1122.0,593.0 1108.0,593.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1081.0 579.0 L 1121.0 593.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1110.0,585.0 1121.0,593.0 1107.0,593.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip274">
+<ellipse cx="1238.0px" cy="605.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip274)">
+<linearGradient id="AdoSvgGradient50" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1204.0px" y="578.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient50);"/>
+</g>
+<ellipse cx="1238.5px" cy="605.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="1238.5px" cy="605.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<rect x="1225.5px" y="591.5px" width="26.0px" height="27.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1228.0px" y1="597.0px" x2="1247.0px" y2="597.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1228.0px" y1="612.0px" x2="1247.0px" y2="612.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1228.0px" y1="607.0px" x2="1247.0px" y2="607.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1228.0px" y1="602.0px" x2="1247.0px" y2="602.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(1212.0,635.0), rotate(-0.0)" x="0px" y="0px" textLength="52.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Asteapta
+</text>
+<text transform="translate(1219.0,651.0), rotate(-0.0)" x="0px" y="0px" textLength="39.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produs
+</text>
+<text transform="translate(1216.0,667.0), rotate(-0.0)" x="0px" y="0px" textLength="44.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   returnat
+</text>
+<path d="M 1187.0 607.0 L 1187.0 607.0 L 1198.0 607.0 L 1208.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1195.0,603.0 1208.0,607.0 1195.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1187.0 606.0 L 1187.0 606.0 L 1198.0 606.0 L 1208.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1195.0,602.0 1208.0,606.0 1195.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1186.0 606.0 L 1186.0 606.0 L 1197.0 606.0 L 1207.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1194.0,602.0 1207.0,606.0 1194.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1186.0 605.0 L 1186.0 605.0 L 1197.0 605.0 L 1207.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1194.0,601.0 1207.0,605.0 1194.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1185.0 605.0 L 1185.0 605.0 L 1196.0 605.0 L 1206.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1193.0,601.0 1206.0,605.0 1193.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip279">
+<rect x="1290.0px" y="581.0px" width="86.0px" height="49.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip279)">
+<linearGradient id="AdoSvgGradient51" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="1290.0px" y="581.0px" width="85.0px" height="48.0px" style="fill:url(#AdoSvgGradient51);"/>
+</g>
+<rect x="1290.0px" y="581.0px" width="85.0px" height="48.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(1296.0,588.0), rotate(-0.0)" x="0px" y="0px" textLength="74.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Inregistreaza
+</text>
+<text transform="translate(1318.0,605.0), rotate(-0.0)" x="0px" y="0px" textLength="30.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+    retur
+</text>
+<clipPath id="AdoSvgClip300">
+<ellipse cx="1446.0px" cy="605.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip300)">
+<linearGradient id="AdoSvgGradient52" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1412.0px" y="578.0px" width="105.0px" height="53.0px" style="fill:url(#AdoSvgGradient52);"/>
+</g>
+<ellipse cx="1446.5px" cy="605.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="1446.5px" cy="605.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1437.0px" y1="590.0px" x2="1455.0px" y2="620.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1446.0px" y1="590.0px" x2="1446.0px" y2="620.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1455.0px" y1="590.0px" x2="1437.0px" y2="620.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1431.0px" y1="596.0px" x2="1461.0px" y2="614.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1431.0px" y1="605.0px" x2="1461.0px" y2="605.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1431.0px" y1="614.0px" x2="1461.0px" y2="596.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip302">
+<ellipse cx="1447.0px" cy="606.0px" rx="19.0px" ry="19.0px" style="fill:none;"/>
+</clipPath>
+<mask id="AdoSvgMask302">
+<rect x="0.0px" y="0.0px" width="2169.0px" height="1092.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<ellipse cx="1447.0px" cy="606.0px" rx="19.0px" ry="19.0px"/>
+</mask>
+<clipPath id="AdoSvgClip303">
+<ellipse cx="1446.0px" cy="605.0px" rx="15.5px" ry="15.5px" style="fill:none;"/>
+</clipPath>
+<mask id="AdoSvgMask303">
+<rect x="0.0px" y="0.0px" width="2169.0px" height="1092.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<ellipse cx="1446.0px" cy="605.0px" rx="15.5px" ry="15.5px"/>
+</mask>
+<g clip-path="url(#AdoSvgClip302)" mask="url(#AdoSvgMask303)">
+<linearGradient id="AdoSvgGradient53" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1412.0px" y="578.0px" width="105.0px" height="53.0px" style="fill:url(#AdoSvgGradient53);"/>
+</g>
+<g clip-path="url(#AdoSvgClip303)" mask="url(#AdoSvgMask302)">
+<linearGradient id="AdoSvgGradient53" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1412.0px" y="578.0px" width="105.0px" height="53.0px" style="fill:url(#AdoSvgGradient53);"/>
+</g>
+<ellipse cx="1446.5px" cy="605.5px" rx="15.0px" ry="15.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip304">
+<ellipse cx="1446.0px" cy="605.0px" rx="9.5px" ry="9.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip304)">
+<linearGradient id="AdoSvgGradient54" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1412.0px" y="578.0px" width="105.0px" height="53.0px" style="fill:url(#AdoSvgGradient54);"/>
+</g>
+<line x1="1446.0px" y1="605.0px" x2="1448.0px" y2="593.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<line x1="1446.0px" y1="605.0px" x2="1453.0px" y2="605.0px" style="stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="1446.5px" cy="605.5px" rx="1.5px" ry="1.5px" style="fill:rgb(98,167,22); stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(1430.0,635.0), rotate(-0.0)" x="0px" y="0px" textLength="31.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   5 zile
+</text>
+<text transform="translate(1417.0,651.0), rotate(-0.0)" x="0px" y="0px" textLength="57.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   lucratoare
+</text>
+<path d="M 1272.0 607.0 L 1286.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1274.0,603.0 1286.0,607.0 1274.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1272.0 606.0 L 1286.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1274.0,602.0 1286.0,606.0 1274.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1271.0 606.0 L 1285.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1273.0,602.0 1285.0,606.0 1273.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1271.0 605.0 L 1285.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1273.0,601.0 1285.0,605.0 1273.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1270.0 605.0 L 1284.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1272.0,601.0 1284.0,605.0 1272.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1383.0 607.0 L 1416.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1403.0,603.0 1416.0,607.0 1403.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1383.0 606.0 L 1416.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1403.0,602.0 1416.0,606.0 1403.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1382.0 606.0 L 1415.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1402.0,602.0 1415.0,606.0 1402.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1382.0 605.0 L 1415.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1402.0,601.0 1415.0,605.0 1402.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1381.0 605.0 L 1414.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1401.0,601.0 1414.0,605.0 1401.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip309">
+<rect x="1512.0px" y="574.0px" width="95.0px" height="62.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip309)">
+<linearGradient id="AdoSvgGradient55" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="1512.0px" y="574.0px" width="94.0px" height="61.0px" style="fill:url(#AdoSvgGradient55);"/>
+</g>
+<rect x="1512.0px" y="574.0px" width="94.0px" height="61.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(1526.0,588.0), rotate(-0.0)" x="0px" y="0px" textLength="66.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Returneaza
+</text>
+<text transform="translate(1547.0,605.0), rotate(-0.0)" x="0px" y="0px" textLength="24.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   bani
+</text>
+<path d="M 1480.0 607.0 L 1508.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1496.0,603.0 1508.0,607.0 1496.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1480.0 606.0 L 1508.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1496.0,602.0 1508.0,606.0 1496.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1479.0 606.0 L 1507.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1495.0,602.0 1507.0,606.0 1495.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1479.0 605.0 L 1507.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1495.0,601.0 1507.0,605.0 1495.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1478.0 605.0 L 1506.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1494.0,601.0 1506.0,605.0 1494.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip314">
+<ellipse cx="1682.0px" cy="605.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip314)">
+<linearGradient id="AdoSvgGradient56" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="1648.0px" y="578.0px" width="106.0px" height="53.0px" style="fill:url(#AdoSvgGradient56);"/>
+</g>
+<ellipse cx="1682.0px" cy="605.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<polygon points=" 1682.0,590.0 1692.0,614.0 1682.0,604.0 1671.0,614.0 " style="fill:rgb(136,136,0); stroke:rgb(136,136,0); stroke-width:1.0px;"/>
+<text transform="translate(1655.0,635.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(1656.0,651.0), rotate(-0.0)" x="0px" y="0px" textLength="52.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   incheiata
+</text>
+<text transform="translate(1641.0,667.0), rotate(-0.0)" x="0px" y="0px" textLength="81.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   nesatisfacator
+</text>
+<path d="M 1614.0 607.0 L 1652.0 607.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1639.0,603.0 1652.0,607.0 1639.0,611.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1614.0 606.0 L 1652.0 606.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1639.0,602.0 1652.0,606.0 1639.0,610.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1613.0 606.0 L 1651.0 606.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1638.0,602.0 1651.0,606.0 1638.0,610.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1613.0 605.0 L 1651.0 605.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1638.0,601.0 1651.0,605.0 1638.0,609.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1612.0 605.0 L 1650.0 605.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1637.0,601.0 1650.0,605.0 1637.0,609.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip319">
+<ellipse cx="1294.0px" cy="737.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip319)">
+<linearGradient id="AdoSvgGradient57" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(153,204,51)"/></linearGradient>
+<rect x="1260.0px" y="711.0px" width="106.0px" height="52.0px" style="fill:url(#AdoSvgGradient57);"/>
+</g>
+<ellipse cx="1294.5px" cy="737.5px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<ellipse cx="1294.5px" cy="737.5px" rx="22.5px" ry="22.5px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<rect x="1279.5px" y="726.5px" width="31.0px" height="22.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<polyline points=" 1279.0,726.0 1294.0,737.0 1310.0,726.0 " style="fill:none; stroke:rgb(98,167,22); stroke-width:1.0px;"/>
+<text transform="translate(1268.0,767.0), rotate(-0.0)" x="0px" y="0px" textLength="54.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Notificare
+</text>
+<text transform="translate(1272.0,783.0), rotate(-0.0)" x="0px" y="0px" textLength="46.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   pierdere
+</text>
+<text transform="translate(1275.0,800.0), rotate(-0.0)" x="0px" y="0px" textLength="39.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   primita
+</text>
+<path d="M 1088.0 637.0 L 1102.0 664.0 L 1108.0 673.0 L 1106.0 669.0 C 1107.0 671.0 1109.0 674.0 1111.0 674.0 L 1238.0 718.0 L 1248.0 722.0 L 1264.0 728.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1254.0,720.0 1264.0,728.0 1251.0,727.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1088.0 636.0 L 1102.0 663.0 L 1108.0 672.0 L 1106.0 668.0 C 1107.0 670.0 1109.0 673.0 1111.0 673.0 L 1238.0 717.0 L 1248.0 721.0 L 1264.0 727.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1254.0,719.0 1264.0,727.0 1251.0,726.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1087.0 636.0 L 1101.0 663.0 L 1107.0 672.0 L 1105.0 668.0 C 1106.0 670.0 1108.0 673.0 1110.0 673.0 L 1237.0 717.0 L 1247.0 721.0 L 1263.0 727.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1253.0,719.0 1263.0,727.0 1250.0,726.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1087.0 635.0 L 1101.0 662.0 L 1107.0 671.0 L 1105.0 667.0 C 1106.0 669.0 1108.0 672.0 1110.0 672.0 L 1237.0 716.0 L 1247.0 720.0 L 1263.0 726.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1253.0,718.0 1263.0,726.0 1250.0,725.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1086.0 635.0 L 1100.0 662.0 L 1106.0 671.0 L 1104.0 667.0 C 1105.0 669.0 1107.0 672.0 1109.0 672.0 L 1236.0 716.0 L 1246.0 720.0 L 1262.0 726.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1252.0,718.0 1262.0,726.0 1249.0,725.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="1377.0px" y="682.0px" width="85.0px" height="114.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<rect x="1412.0px" y="781.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<rect x="1377.0px" y="681.0px" width="85.0px" height="114.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<rect x="1412.0px" y="780.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:2.0px;"/>
+<rect x="1376.0px" y="681.0px" width="85.0px" height="114.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<rect x="1411.0px" y="780.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<rect x="1376.0px" y="680.0px" width="85.0px" height="114.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<rect x="1411.0px" y="779.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:2.0px;"/>
+<clipPath id="AdoSvgClip324">
+<rect x="1375.0px" y="680.0px" width="86.0px" height="115.0px" rx="8.0px" ry="8.0px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip324)">
+<linearGradient id="AdoSvgGradient58" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(143,194,255)"/></linearGradient>
+<rect x="1375.0px" y="680.0px" width="85.0px" height="114.0px" style="fill:url(#AdoSvgGradient58);"/>
+</g>
+<rect x="1375.0px" y="680.0px" width="85.0px" height="114.0px" rx="8.0px" ry="8.0px" style="fill:none; stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<rect x="1410.0px" y="779.0px" width="15.0px" height="15.0px" rx="2.0px" ry="2.0px" style="fill:rgb(255,255,255); stroke:rgb(0,68,170); stroke-width:2.0px;"/>
+<text transform="translate(1407.0,791.0), rotate(-90.0)" x="0px" y="0px" textLength="10.0px"
+ style="font-family:Arial; font-size:17.0px; font-weight:bold;fill:rgb(0,68,170); stroke:none; baseline-shift:-16.0px; ">
+   +
+</text>
+<text transform="translate(1388.0,697.0), rotate(-0.0)" x="0px" y="0px" textLength="59.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Procedura
+</text>
+<text transform="translate(1387.0,713.0), rotate(-0.0)" x="0px" y="0px" textLength="61.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   investigare
+</text>
+<text transform="translate(1391.0,729.0), rotate(-0.0)" x="0px" y="0px" textLength="53.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comanda
+</text>
+<text transform="translate(1396.0,746.0), rotate(-0.0)" x="0px" y="0px" textLength="43.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   ratacita
+</text>
+<path d="M 1329.0 739.0 L 1371.0 739.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1359.0,735.0 1371.0,739.0 1359.0,743.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1329.0 738.0 L 1371.0 738.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1359.0,734.0 1371.0,738.0 1359.0,742.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1328.0 738.0 L 1370.0 738.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1358.0,734.0 1370.0,738.0 1358.0,742.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1328.0 737.0 L 1370.0 737.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1358.0,733.0 1370.0,737.0 1358.0,741.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1327.0 737.0 L 1369.0 737.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1357.0,733.0 1369.0,737.0 1357.0,741.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<clipPath id="AdoSvgClip329">
+<ellipse cx="1569.0px" cy="737.0px" rx="26.5px" ry="26.5px" style="fill:none;"/>
+</clipPath>
+<g clip-path="url(#AdoSvgClip329)">
+<linearGradient id="AdoSvgGradient59" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="5%" stop-color="rgb(255,255,255)"/><stop offset="95%" stop-color="rgb(238,238,0)"/></linearGradient>
+<rect x="1534.0px" y="711.0px" width="106.0px" height="52.0px" style="fill:url(#AdoSvgGradient59);"/>
+</g>
+<ellipse cx="1569.0px" cy="737.0px" rx="26.0px" ry="26.0px" style="fill:none; stroke:rgb(136,136,0); stroke-width:4.0px;"/>
+<text transform="translate(1547.0,767.0), rotate(-0.0)" x="0px" y="0px" textLength="44.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Situatie
+</text>
+<text transform="translate(1543.0,783.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   rezolvata
+</text>
+<path d="M 1468.0 739.0 L 1538.0 739.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1526.0,735.0 1538.0,739.0 1526.0,743.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1468.0 738.0 L 1538.0 738.0" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<polygon points=" 1526.0,734.0 1538.0,738.0 1526.0,742.0 " style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<path d="M 1467.0 738.0 L 1537.0 738.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1525.0,734.0 1537.0,738.0 1525.0,742.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1467.0 737.0 L 1537.0 737.0" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<polygon points=" 1525.0,733.0 1537.0,737.0 1525.0,741.0 " style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<path d="M 1466.0 737.0 L 1536.0 737.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1524.0,733.0 1536.0,737.0 1524.0,741.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 421.0 881.0 L 879.0 320.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="421.5px" cy="881.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 868.0,327.0 879.0,320.0 875.0,332.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1082.0 467.0 L 1152.0 556.0 L 1159.0 565.0 L 1187.0 600.0 C 1189.0 599.0 1193.0 599.0 1195.0 601.0 1197.0 604.0 1196.0 608.0 1194.0 609.0 L 1269.0 705.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="1082.5px" cy="467.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1265.0,692.0 1269.0,705.0 1258.0,698.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1106.0 310.0 L 884.0 600.0 C 886.0 602.0 887.0 606.0 885.0 608.0 884.0 610.0 879.0 611.0 877.0 609.0 L 794.0 718.0 C 796.0 720.0 797.0 724.0 795.0 726.0 793.0 729.0 789.0 729.0 787.0 728.0 L 670.0 881.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="1106.5px" cy="310.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 681.0,873.0 670.0,881.0 674.0,868.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1192.0 489.0 L 1158.0 556.0 C 1161.0 557.0 1162.0 561.0 1161.0 564.0 1160.0 566.0 1156.0 567.0 1153.0 566.0 L 1106.0 661.0 C 1108.0 663.0 1109.0 667.0 1108.0 669.0 1107.0 672.0 1103.0 673.0 1100.0 671.0 L 989.0 894.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="1192.5px" cy="489.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 999.0,884.0 989.0,894.0 991.0,881.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1196.0 489.0 L 1165.0 573.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="1196.5px" cy="489.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1173.0,562.0 1165.0,573.0 1165.0,559.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1506.0 569.0 L 1366.0 473.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="1506.5px" cy="569.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1373.0,484.0 1366.0,473.0 1378.0,477.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 803.0 881.0 L 910.0 673.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="803.5px" cy="881.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 900.0,682.0 910.0,673.0 908.0,686.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1246.0 894.0 L 1241.0 724.0 C 1239.0 724.0 1236.0 721.0 1236.0 718.0 1236.0 715.0 1239.0 712.0 1241.0 712.0 L 1240.0 689.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:6 4; stroke-width:2.0px;"/>
+<ellipse cx="1246.5px" cy="894.5px" rx="3.5px" ry="3.5px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1237.0,701.0 1240.0,689.0 1245.0,701.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+</g>
+</svg>

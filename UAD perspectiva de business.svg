@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="5254.0px" height="1221.0px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g>
+<rect x="0.0px" y="0.0px" width="5254.0px" height="1221.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<rect x="0.5px" y="0.5px" width="397.0px" height="1219.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="0.0px" y1="113.0px" x2="397.0px" y2="113.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(173.0,45.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:18.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-17.0px; ">
+   Client
+</text>
+<rect x="397.5px" y="0.5px" width="359.0px" height="1219.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="397.0px" y1="113.0px" x2="756.0px" y2="113.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(526.0,45.0), rotate(-0.0)" x="0px" y="0px" textLength="101.0px"
+ style="font-family:Arial; font-size:18.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-17.0px; ">
+   Comerciant
+</text>
+<rect x="756.5px" y="0.5px" width="331.0px" height="1219.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="756.0px" y1="113.0px" x2="1087.0px" y2="113.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(886.0,45.0), rotate(-0.0)" x="0px" y="0px" textLength="70.0px"
+ style="font-family:Arial; font-size:18.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-17.0px; ">
+   Curierat
+</text>
+<rect x="57.5px" y="217.5px" width="293.0px" height="208.0px" rx="23.0px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<text transform="translate(68.0,229.0), rotate(-0.0)" x="0px" y="0px" textLength="44.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   iterative
+</text>
+<rect x="66.5px" y="567.5px" width="265.0px" height="368.0px" rx="23.0px" ry="23.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<text transform="translate(77.0,578.0), rotate(-0.0)" x="0px" y="0px" textLength="41.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   parallel
+</text>
+<text transform="translate(77.0,598.0), rotate(-0.0)" x="0px" y="0px" textLength="170.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Situatie cu risc de intrerupere
+</text>
+<rect x="1106.5px" y="19.5px" width="359.0px" height="1049.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,250,205); stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<text transform="translate(1111.0,25.0), rotate(-0.0)" x="0px" y="0px" textLength="326.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Acesta e un proces de business: surprinde operatiuni de
+</text>
+<text transform="translate(1111.0,41.0), rotate(-0.0)" x="0px" y="0px" textLength="284.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   business independent de IT. Rolul ei e sa asigure
+</text>
+<text transform="translate(1111.0,57.0), rotate(-0.0)" x="0px" y="0px" textLength="339.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   intelegerea modului in care decurg procedurile de business
+</text>
+<text transform="translate(1111.0,73.0), rotate(-0.0)" x="0px" y="0px" textLength="308.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   si eventualele situati exceptionale ce tin de business,
+</text>
+<text transform="translate(1111.0,90.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,106.0), rotate(-0.0)" x="0px" y="0px" textLength="263.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Motivul pentru care IT-ul e neglijat aici poate fi
+</text>
+<text transform="translate(1111.0,122.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,138.0), rotate(-0.0)" x="0px" y="0px" textLength="307.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   fie pentru ca nu exista inca un sistem IT pentru acest
+</text>
+<text transform="translate(1111.0,155.0), rotate(-0.0)" x="0px" y="0px" textLength="330.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   proces (caz in care aceasta e o diagrama Before/Asts, si
+</text>
+<text transform="translate(1111.0,171.0), rotate(-0.0)" x="0px" y="0px" textLength="301.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   ar mai trebui creata o diagrama Atter/ToBe, pentru a
+</text>
+<text transform="translate(1111.0,187.0), rotate(-0.0)" x="0px" y="0px" textLength="330.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   clarifica ce transformari va suferi operatiunea de business
+</text>
+<text transform="translate(1111.0,203.0), rotate(-0.0)" x="0px" y="0px" textLength="344.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   prin introducerea de software suport de ex plata se va putea
+</text>
+<text transform="translate(1111.0,220.0), rotate(-0.0)" x="0px" y="0px" textLength="163.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   face online si nu la ramburs)
+</text>
+<text transform="translate(1111.0,236.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,252.0), rotate(-0.0)" x="0px" y="0px" textLength="334.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   fie pentru ca diagrama a fost creata strict pentru a discuta
+</text>
+<text transform="translate(1111.0,268.0), rotate(-0.0)" x="0px" y="0px" textLength="324.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   procedura de business (de ex. pt a verifica daca prevede
+</text>
+<text transform="translate(1111.0,285.0), rotate(-0.0)" x="0px" y="0px" textLength="315.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   anumite conditii legislative pas obligatoriu de facturare,
+</text>
+<text transform="translate(1111.0,301.0), rotate(-0.0)" x="0px" y="0px" textLength="342.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   durata de 5 zile de returnare a banilor sau pentru a planifica
+</text>
+<text transform="translate(1111.0,317.0), rotate(-0.0)" x="0px" y="0px" textLength="171.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   tratarea situatiile de exceptie)
+</text>
+<text transform="translate(1111.0,333.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,350.0), rotate(-0.0)" x="0px" y="0px" textLength="288.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Observati ca procesul nu are DELOC pasi care sa
+</text>
+<text transform="translate(1111.0,366.0), rotate(-0.0)" x="0px" y="0px" textLength="330.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   sugereze utilizarea unui software! Doar activitati fizice, de
+</text>
+<text transform="translate(1111.0,382.0), rotate(-0.0)" x="0px" y="0px" textLength="320.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comunicare/informare sau administrative Ramane sa se
+</text>
+<text transform="translate(1111.0,398.0), rotate(-0.0)" x="0px" y="0px" textLength="328.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   decida ulterior care din acestea necesita sprijin software.
+</text>
+<text transform="translate(1111.0,415.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,431.0), rotate(-0.0)" x="0px" y="0px" textLength="57.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Povestea:
+</text>
+<text transform="translate(1111.0,447.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,463.0), rotate(-0.0)" x="0px" y="0px" textLength="299.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Clientul incepe prin a cauta la mai multi comercianti
+</text>
+<text transform="translate(1111.0,480.0), rotate(-0.0)" x="0px" y="0px" textLength="332.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produsul dorit (structura iterativa ce are ca input o lista de
+</text>
+<text transform="translate(1111.0,496.0), rotate(-0.0)" x="0px" y="0px" textLength="313.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comercianti si ca output comerciantul ales). La fiecare
+</text>
+<text transform="translate(1111.0,512.0), rotate(-0.0)" x="0px" y="0px" textLength="320.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comerciant va cauta produsul, va consulta descrierea si
+</text>
+<text transform="translate(1111.0,528.0), rotate(-0.0)" x="0px" y="0px" textLength="292.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   pretul, pana cand gaseste unul care ii convine si in
+</text>
+<text transform="translate(1111.0,545.0), rotate(-0.0)" x="0px" y="0px" textLength="227.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   consecinta va avea un comerciant ales.
+</text>
+<text transform="translate(1111.0,561.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,577.0), rotate(-0.0)" x="0px" y="0px" textLength="322.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Pentru comerciantul ales plaseaza comanda. transmisa
+</text>
+<text transform="translate(1111.0,593.0), rotate(-0.0)" x="0px" y="0px" textLength="303.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   prin telefon comerciantului. Comerciantul factureaza,
+</text>
+<text transform="translate(1111.0,610.0), rotate(-0.0)" x="0px" y="0px" textLength="304.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   ambaleaza produsele si preda pachetul unei firme de
+</text>
+<text transform="translate(1111.0,626.0), rotate(-0.0)" x="0px" y="0px" textLength="292.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   curierat Firma de curierat transporta pachetul iar la
+</text>
+<text transform="translate(1111.0,642.0), rotate(-0.0)" x="0px" y="0px" textLength="306.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   destinatie incearca sa contacteze clientul. Daca nu il
+</text>
+<text transform="translate(1111.0,658.0), rotate(-0.0)" x="0px" y="0px" textLength="272.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   gaseste, retumeaza produsul la comerciant, iar
+</text>
+<text transform="translate(1111.0,675.0), rotate(-0.0)" x="0px" y="0px" textLength="336.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comerciantul anuleaza comanda. Daca s-a gasit chentul, i
+</text>
+<text transform="translate(1111.0,691.0), rotate(-0.0)" x="0px" y="0px" textLength="113.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   se inreaza pachetul
+</text>
+<text transform="translate(1111.0,707.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,723.0), rotate(-0.0)" x="0px" y="0px" textLength="344.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Clientul ar trebui sa primeasca pachetul si plateste ramburs
+</text>
+<text transform="translate(1111.0,740.0), rotate(-0.0)" x="0px" y="0px" textLength="305.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   la cuner, apoi foloseste produsul cumparat, In paralel
+</text>
+<text transform="translate(1111.0,756.0), rotate(-0.0)" x="0px" y="0px" textLength="343.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   curierul deconteaza plata cu comerciantul Cele doua ramuri
+</text>
+<text transform="translate(1111.0,772.0), rotate(-0.0)" x="0px" y="0px" textLength="334.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   paralele au final local (marcat cu X) astfel incat terminarea
+</text>
+<text transform="translate(1111.0,788.0), rotate(-0.0)" x="0px" y="0px" textLength="314.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   actiunii pe o ramura sa nu opreasca si cealaita ramura
+</text>
+<text transform="translate(1111.0,805.0), rotate(-0.0)" x="0px" y="0px" textLength="298.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   (finalul total opreste orice alte ramun alo procesului)
+</text>
+<text transform="translate(1111.0,821.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,837.0), rotate(-0.0)" x="0px" y="0px" textLength="335.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Dar in aceasta faza pot interveni 2 situati de exceptie care
+</text>
+<text transform="translate(1111.0,853.0), rotate(-0.0)" x="0px" y="0px" textLength="305.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   vor impiedica realizarea acestor actiuni (interrupting&quot;)
+</text>
+<text transform="translate(1111.0,870.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,886.0), rotate(-0.0)" x="0px" y="0px" textLength="324.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   se poate ca pachetul sa intarzie peste 20 de zile. caz in
+</text>
+<text transform="translate(1111.0,902.0), rotate(-0.0)" x="0px" y="0px" textLength="333.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   care clientul va notifica pe comerciant, iar comerciantul va
+</text>
+<text transform="translate(1111.0,918.0), rotate(-0.0)" x="0px" y="0px" textLength="321.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   declansa o procedura interna de investigare a problemei
+</text>
+<text transform="translate(1111.0,935.0), rotate(-0.0)" x="0px" y="0px" textLength="242.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   (care nu e detaliata aici, ci doar &quot;apelata&quot;)
+</text>
+<text transform="translate(1111.0,951.0), rotate(-0.0)" x="0px" y="0px" textLength="0.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   
+</text>
+<text transform="translate(1111.0,967.0), rotate(-0.0)" x="0px" y="0px" textLength="322.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   se poate ca produsul sa aiba probleme la folosire caz in
+</text>
+<text transform="translate(1111.0,983.0), rotate(-0.0)" x="0px" y="0px" textLength="321.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   care clientul va returna produsul prin curierat, curierul va
+</text>
+<text transform="translate(1111.0,1000.0), rotate(-0.0)" x="0px" y="0px" textLength="306.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   transporta returul, comerciantul va inregistra produsul
+</text>
+<text transform="translate(1111.0,1016.0), rotate(-0.0)" x="0px" y="0px" textLength="260.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   returnat si in termen de 5 zile va returna banii
+</text>
+<ellipse cx="198.5px" cy="142.5px" rx="11.0px" ry="11.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-linecap:round; stroke-width:1.0px;"/>
+<rect x="189.5px" y="214.5px" width="23.0px" height="11.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="189.5px" y="213.5px" width="23.0px" height="11.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="188.5px" y="213.5px" width="23.0px" height="11.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="188.5px" y="212.5px" width="23.0px" height="11.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="187.5px" y="212.5px" width="23.0px" height="11.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="193.0px" y1="212.0px" x2="193.0px" y2="223.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="198.0px" y1="212.0px" x2="198.0px" y2="223.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="204.0px" y1="212.0px" x2="204.0px" y2="223.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(164.0,227.0), rotate(-0.0)" x="0px" y="0px" textLength="69.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comercianti
+</text>
+<path d="M 198.0 159.0 L 198.0 206.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 203.0,194.0 198.0,206.0 194.0,194.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="144.5px" y="267.5px" width="113.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="144.5px" y="266.5px" width="113.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="143.5px" y="266.5px" width="113.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="143.5px" y="265.5px" width="113.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="142.5px" y="265.5px" width="113.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(156.0,267.0), rotate(-0.0)" x="0px" y="0px" textLength="84.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Cauta produse
+</text>
+<text transform="translate(170.0,283.0), rotate(-0.0)" x="0px" y="0px" textLength="56.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   in catalog
+</text>
+<rect x="144.5px" y="333.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="144.5px" y="332.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="143.5px" y="332.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="143.5px" y="331.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="142.5px" y="331.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(173.0,333.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Consulta
+</text>
+<text transform="translate(152.0,350.0), rotate(-0.0)" x="0px" y="0px" textLength="93.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   descriere si pret
+</text>
+<rect x="144.5px" y="401.5px" width="113.0px" height="53.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="144.5px" y="400.5px" width="113.0px" height="53.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="143.5px" y="400.5px" width="113.0px" height="53.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="143.5px" y="399.5px" width="113.0px" height="53.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="142.5px" y="399.5px" width="113.0px" height="53.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(152.0,417.0), rotate(-0.0)" x="0px" y="0px" textLength="94.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comerciant ales
+</text>
+<path d="M 198.0 248.0 L 198.0 259.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 203.0,246.0 198.0,259.0 194.0,246.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 198.0 308.0 L 198.0 325.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 203.0,313.0 198.0,325.0 194.0,313.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 198.0 374.0 L 198.0 393.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 203.0,381.0 198.0,393.0 194.0,381.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 125.0,489.0 251.0,489.0 276.0,512.0 251.0,536.0 125.0,536.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 125.0,488.0 251.0,488.0 276.0,511.0 251.0,535.0 125.0,535.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 124.0,488.0 250.0,488.0 275.0,511.0 250.0,535.0 124.0,535.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 124.0,487.0 250.0,487.0 275.0,510.0 250.0,534.0 124.0,534.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 123.0,487.0 249.0,487.0 274.0,510.0 249.0,534.0 123.0,534.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(143.0,494.0), rotate(-0.0)" x="0px" y="0px" textLength="111.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Plaseaza comanda
+</text>
+<text transform="translate(167.0,510.0), rotate(-0.0)" x="0px" y="0px" textLength="63.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   prin telefon
+</text>
+<path d="M 198.0 457.0 L 198.0 481.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 203.0,469.0 198.0,481.0 194.0,469.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="522.5px" y="238.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="522.5px" y="237.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="521.5px" y="237.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="521.5px" y="236.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="520.5px" y="236.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(544.0,239.0), rotate(-0.0)" x="0px" y="0px" textLength="65.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Factureaza
+</text>
+<text transform="translate(550.0,255.0), rotate(-0.0)" x="0px" y="0px" textLength="53.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comanda
+</text>
+<rect x="522.5px" y="323.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="522.5px" y="322.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="521.5px" y="322.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="521.5px" y="321.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="520.5px" y="321.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(544.0,324.0), rotate(-0.0)" x="0px" y="0px" textLength="65.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Ambaleaza
+</text>
+<text transform="translate(550.0,340.0), rotate(-0.0)" x="0px" y="0px" textLength="53.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comanda
+</text>
+<rect x="522.5px" y="399.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="522.5px" y="398.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="521.5px" y="398.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="521.5px" y="397.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="520.5px" y="397.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(538.0,399.0), rotate(-0.0)" x="0px" y="0px" textLength="77.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Preda pachet
+</text>
+<text transform="translate(551.0,416.0), rotate(-0.0)" x="0px" y="0px" textLength="52.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   curierului
+</text>
+<path d="M 268.0 481.0 L 422.0 417.0 C 424.0 417.0 427.0 415.0 428.0 413.0 L 553.0 280.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 542.0,286.0 553.0,280.0 548.0,292.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 576.0 280.0 L 576.0 316.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 581.0,303.0 576.0,316.0 572.0,303.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 576.0 365.0 L 576.0 391.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 581.0,379.0 576.0,391.0 572.0,379.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="871.5px" y="399.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="871.5px" y="398.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="870.5px" y="398.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="870.5px" y="397.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="869.5px" y="397.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(896.0,399.0), rotate(-0.0)" x="0px" y="0px" textLength="61.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Transporta
+</text>
+<text transform="translate(902.0,416.0), rotate(-0.0)" x="0px" y="0px" textLength="49.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   pachetul
+</text>
+<path d="M 639.0 416.0 L 864.0 416.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 851.0,412.0 864.0,416.0 851.0,420.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="871.5px" y="474.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="871.5px" y="473.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="870.5px" y="473.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="870.5px" y="472.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="869.5px" y="472.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(890.0,475.0), rotate(-0.0)" x="0px" y="0px" textLength="73.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Contacteaza
+</text>
+<text transform="translate(906.0,491.0), rotate(-0.0)" x="0px" y="0px" textLength="41.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   clientul
+</text>
+<path d="M 926.0 440.0 L 926.0 467.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 930.0,454.0 926.0,467.0 922.0,454.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 918.0,567.0 926.0,580.0 934.0,567.0 926.0,554.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 926.0 516.0 L 926.0 548.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 930.0,536.0 926.0,548.0 922.0,536.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="815.5px" y="635.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="815.5px" y="634.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="814.5px" y="634.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="814.5px" y="633.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="813.5px" y="633.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(830.0,636.0), rotate(-0.0)" x="0px" y="0px" textLength="80.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Returneaza la
+</text>
+<text transform="translate(838.0,652.0), rotate(-0.0)" x="0px" y="0px" textLength="64.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comerciant
+</text>
+<rect x="956.5px" y="720.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="956.5px" y="719.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="955.5px" y="719.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="955.5px" y="718.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="954.5px" y="718.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(973.0,721.0), rotate(-0.0)" x="0px" y="0px" textLength="77.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Preda pachet
+</text>
+<text transform="translate(989.0,737.0), rotate(-0.0)" x="0px" y="0px" textLength="45.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   la client
+</text>
+<path d="M 913.0 567.0 L 873.0 567.0 C 871.0 567.0 869.0 569.0 869.0 571.0 L 869.0 627.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 873.0,615.0 869.0,627.0 865.0,615.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(831.0,583.0), rotate(-0.0)" x="0px" y="0px" textLength="77.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   client negasit
+</text>
+<path d="M 939.0 567.0 L 1036.0 567.0 C 1037.0 567.0 1039.0 569.0 1039.0 571.0 L 1039.0 712.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 1044.0,700.0 1039.0,712.0 1035.0,700.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1007.0,621.0), rotate(-0.0)" x="0px" y="0px" textLength="65.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Client gasit
+</text>
+<rect x="559.5px" y="635.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="559.5px" y="634.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="558.5px" y="634.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="558.5px" y="633.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="557.5px" y="633.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(592.0,636.0), rotate(-0.0)" x="0px" y="0px" textLength="44.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Anulare
+</text>
+<text transform="translate(588.0,652.0), rotate(-0.0)" x="0px" y="0px" textLength="53.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comanda
+</text>
+<path d="M 807.0 652.0 L 677.0 652.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 689.0,656.0 677.0,652.0 689.0,648.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="463.5px" cy="652.5px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="463.5px" cy="652.5px" rx="5.5px" ry="5.5px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 552.0 652.0 L 480.0 652.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 492.0,656.0 480.0,652.0 492.0,648.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="96.5px" y="635.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="96.5px" y="634.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="95.5px" y="634.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="95.5px" y="633.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="94.5px" y="633.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(116.0,636.0), rotate(-0.0)" x="0px" y="0px" textLength="70.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Primeste cu
+</text>
+<text transform="translate(112.0,652.0), rotate(-0.0)" x="0px" y="0px" textLength="78.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   plata la curier
+</text>
+<path d="M 949.0 731.0 L 214.0 658.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 226.0,663.0 214.0,658.0 226.0,655.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="121.5px" y="708.5px" width="60.0px" height="2.0px" rx="0.0px" ry="0.0px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<path d="M 151.0 677.0 L 151.0 702.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 155.0,689.0 151.0,702.0 147.0,689.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="96.5px" y="767.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="96.5px" y="766.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="95.5px" y="766.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="95.5px" y="765.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="94.5px" y="765.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(123.0,768.0), rotate(-0.0)" x="0px" y="0px" textLength="57.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Foloseste
+</text>
+<text transform="translate(132.0,784.0), rotate(-0.0)" x="0px" y="0px" textLength="39.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produs
+</text>
+<path d="M 151.0 716.0 L 151.0 760.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 155.0,747.0 151.0,760.0 147.0,747.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="890.5px" y="805.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="890.5px" y="804.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="889.5px" y="804.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="889.5px" y="803.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="888.5px" y="803.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(904.0,806.0), rotate(-0.0)" x="0px" y="0px" textLength="83.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Deconecteaza
+</text>
+<text transform="translate(899.0,822.0), rotate(-0.0)" x="0px" y="0px" textLength="92.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   cu comerciantul
+</text>
+<ellipse cx="945.5px" cy="898.5px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="938.0px" y1="891.0px" x2="952.0px" y2="904.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="952.0px" y1="891.0px" x2="938.0px" y2="904.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 945.0 847.0 L 945.0 881.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 949.0,868.0 945.0,881.0 941.0,868.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 151.0 716.0 L 151.0 733.0 C 151.0 735.0 153.0 737.0 155.0 737.0 L 883.0 815.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 870.0,810.0 883.0,815.0 870.0,818.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="151.5px" cy="850.5px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="144.0px" y1="844.0px" x2="158.0px" y2="857.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="158.0px" y1="844.0px" x2="144.0px" y2="857.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 151.0 809.0 L 151.0 833.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 155.0,821.0 151.0,833.0 147.0,821.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 92.0,900.0 109.0,871.0 179.0,871.0 196.0,900.0 179.0,928.0 109.0,928.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 92.0,899.0 109.0,870.0 179.0,870.0 196.0,899.0 179.0,927.0 109.0,927.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 91.0,899.0 108.0,870.0 178.0,870.0 195.0,899.0 178.0,927.0 108.0,927.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 91.0,898.0 108.0,869.0 178.0,869.0 195.0,898.0 178.0,926.0 108.0,926.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 90.0,898.0 107.0,869.0 177.0,869.0 194.0,898.0 177.0,926.0 107.0,926.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(107.0,881.0), rotate(-0.0)" x="0px" y="0px" textLength="69.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Probleme in
+</text>
+<text transform="translate(121.0,898.0), rotate(-0.0)" x="0px" y="0px" textLength="41.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   folosire
+</text>
+<polygon points=" 234.0,829.0 300.0,895.0 234.0,895.0 300.0,829.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 234.0,828.0 300.0,894.0 234.0,894.0 300.0,828.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 233.0,828.0 299.0,894.0 233.0,894.0 299.0,828.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 233.0,827.0 299.0,893.0 233.0,893.0 299.0,827.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 232.0,827.0 298.0,893.0 232.0,893.0 298.0,827.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(217.0,898.0), rotate(-0.0)" x="0px" y="0px" textLength="95.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Intarziere 20 zile
+</text>
+<rect x="87.5px" y="1032.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="87.5px" y="1031.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="86.5px" y="1031.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="86.5px" y="1030.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="85.5px" y="1030.5px" width="113.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(109.0,1033.0), rotate(-0.0)" x="0px" y="0px" textLength="66.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Returneaza
+</text>
+<text transform="translate(122.0,1049.0), rotate(-0.0)" x="0px" y="0px" textLength="39.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   produs
+</text>
+<polygon points=" 210.0,961.0 304.0,961.0 323.0,985.0 304.0,1008.0 210.0,1008.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 210.0,960.0 304.0,960.0 323.0,984.0 304.0,1007.0 210.0,1007.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 209.0,960.0 303.0,960.0 322.0,984.0 303.0,1007.0 209.0,1007.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 209.0,959.0 303.0,959.0 322.0,983.0 303.0,1006.0 209.0,1006.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 208.0,959.0 302.0,959.0 321.0,983.0 302.0,1006.0 208.0,1006.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(243.0,966.0), rotate(-0.0)" x="0px" y="0px" textLength="43.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Notifica
+</text>
+<text transform="translate(233.0,983.0), rotate(-0.0)" x="0px" y="0px" textLength="64.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   comerciant
+</text>
+<path d="M 142.0 932.0 L 142.0 1024.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 146.0,1012.0 142.0,1024.0 138.0,1012.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 159.0,994.0 159.0,1009.0 151.0,998.0 151.0,1013.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 155.0,1009.0 151.0,1013.0 147.0,1009.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 265.0 919.0 L 265.0 954.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 269.0,941.0 265.0,954.0 260.0,941.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 282.0,923.0 282.0,938.0 274.0,927.0 274.0,942.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 278.0,938.0 274.0,942.0 270.0,938.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="890.5px" y="1032.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="890.5px" y="1031.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="889.5px" y="1031.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="889.5px" y="1030.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="888.5px" y="1030.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(900.0,1041.0), rotate(-0.0)" x="0px" y="0px" textLength="91.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Transporta retur
+</text>
+<path d="M 204.0 1034.0 L 629.0 936.0 C 631.0 936.0 635.0 936.0 636.0 937.0 L 883.0 1026.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 872.0,1018.0 883.0,1026.0 869.0,1026.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="446.5px" y="848.5px" width="113.0px" height="66.0px" rx="11.0px" ry="20.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="552.0px" y1="899.0px" x2="552.0px" y2="906.0px" style="stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="544.0px" y1="891.0px" x2="544.0px" y2="906.0px" style="stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="537.0px" y1="899.0px" x2="537.0px" y2="906.0px" style="stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="537.0px" y1="899.0px" x2="552.0px" y2="899.0px" style="stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="446.5px" y="847.5px" width="113.0px" height="66.0px" rx="11.0px" ry="20.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="552.0px" y1="898.0px" x2="552.0px" y2="905.0px" style="stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="544.0px" y1="890.0px" x2="544.0px" y2="905.0px" style="stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="537.0px" y1="898.0px" x2="537.0px" y2="905.0px" style="stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="537.0px" y1="898.0px" x2="552.0px" y2="898.0px" style="stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="445.5px" y="847.5px" width="113.0px" height="66.0px" rx="11.0px" ry="20.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="551.0px" y1="898.0px" x2="551.0px" y2="905.0px" style="stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="543.0px" y1="890.0px" x2="543.0px" y2="905.0px" style="stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="536.0px" y1="898.0px" x2="536.0px" y2="905.0px" style="stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="536.0px" y1="898.0px" x2="551.0px" y2="898.0px" style="stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="445.5px" y="846.5px" width="113.0px" height="66.0px" rx="11.0px" ry="20.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="551.0px" y1="897.0px" x2="551.0px" y2="904.0px" style="stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="543.0px" y1="889.0px" x2="543.0px" y2="904.0px" style="stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="536.0px" y1="897.0px" x2="536.0px" y2="904.0px" style="stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="536.0px" y1="897.0px" x2="551.0px" y2="897.0px" style="stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="444.5px" y="846.5px" width="113.0px" height="66.0px" rx="11.0px" ry="20.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="550.0px" y1="897.0px" x2="550.0px" y2="904.0px" style="stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="542.0px" y1="889.0px" x2="542.0px" y2="904.0px" style="stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="535.0px" y1="897.0px" x2="535.0px" y2="904.0px" style="stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<line x1="535.0px" y1="897.0px" x2="550.0px" y2="897.0px" style="stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(452.0,862.0), rotate(-0.0)" x="0px" y="0px" textLength="55.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Comanda
+</text>
+<text transform="translate(452.0,879.0), rotate(-0.0)" x="0px" y="0px" textLength="43.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   ratacita
+</text>
+<path d="M 327.0 955.0 L 438.0 906.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 425.0,907.0 438.0,906.0 429.0,915.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="661.5px" cy="879.5px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="661.5px" cy="879.5px" rx="5.5px" ry="5.5px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 563.0 879.0 L 644.0 879.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 632.0,875.0 644.0,879.0 632.0,883.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="512.5px" y="985.5px" width="114.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="512.5px" y="984.5px" width="114.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="511.5px" y="984.5px" width="114.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="511.5px" y="983.5px" width="114.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="510.5px" y="983.5px" width="114.0px" height="37.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(530.0,985.0), rotate(-0.0)" x="0px" y="0px" textLength="74.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Inregistreaza
+</text>
+<text transform="translate(554.0,1002.0), rotate(-0.0)" x="0px" y="0px" textLength="26.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   retur
+</text>
+<polygon points=" 512.0,1051.0 626.0,1089.0 512.0,1089.0 626.0,1051.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 512.0,1050.0 626.0,1088.0 512.0,1088.0 626.0,1050.0 " style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 511.0,1050.0 625.0,1088.0 511.0,1088.0 625.0,1050.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 511.0,1049.0 625.0,1087.0 511.0,1087.0 625.0,1049.0 " style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<polygon points=" 510.0,1049.0 624.0,1087.0 510.0,1087.0 624.0,1049.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(521.0,1089.0), rotate(-0.0)" x="0px" y="0px" textLength="92.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   5 zile lucratoare
+</text>
+<rect x="512.5px" y="1136.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="512.5px" y="1135.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(219,219,219); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="511.5px" y="1135.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="511.5px" y="1134.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:none; stroke:rgb(169,169,169); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<rect x="510.5px" y="1134.5px" width="114.0px" height="38.0px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-linejoin:bevel; stroke-width:1.0px;"/>
+<text transform="translate(520.0,1145.0), rotate(-0.0)" x="0px" y="0px" textLength="94.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Returneaza bani
+</text>
+<path d="M 567.0 1026.0 L 567.0 1043.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 571.0,1031.0 567.0,1043.0 563.0,1031.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 567.0 1111.0 L 567.0 1128.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 571.0,1116.0 567.0,1128.0 563.0,1116.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 883.0 1041.0 L 629.0 1010.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 641.0,1015.0 629.0,1010.0 642.0,1007.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="699.5px" cy="1153.5px" rx="11.0px" ry="11.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<ellipse cx="699.5px" cy="1153.5px" rx="5.5px" ry="5.5px" style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 629.0 1153.0 L 682.0 1153.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polyline points=" 670.0,1149.0 682.0,1153.0 670.0,1157.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+</g>
+</svg>
